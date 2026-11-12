@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_multiverse.xml.append:11
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[1]/text"
+msgstr "Предъявить свою Вспомогательную систему щитов."
+
+#: src-en/data/events_special_multiverse.xml.append:13
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"\"Вспомогательные щиты - защитные п-п-п-процедуры, которые они обеспечивают!"
+" Вы пилотируете: хорошо защищенное судно! Хорошо защищенное судно! Для "
+"хорошо защищенного судна: Я предоставляю дар До-до-дополнительного "
+"экранирования! Дар дополнительного экранирования! Сохраните его - на "
+"будущее!\""
+
+#: src-en/data/events_special_multiverse.xml.append:18
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[1]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_special_multiverse.xml.append:24
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:26
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:31
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[2]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_special_multiverse.xml.append:37
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:39
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:44
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[3]/event/choice/text"
+msgstr "Продолжить..."

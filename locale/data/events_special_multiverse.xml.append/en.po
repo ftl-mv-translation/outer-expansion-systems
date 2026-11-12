@@ -1,0 +1,73 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_multiverse.xml.append:11
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[1]/text"
+msgstr "Present your Auxiliary Shields system."
+
+#: src-en/data/events_special_multiverse.xml.append:13
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"\"Auxiliary Shields - defensive p-p-p-procedures they ensure! You pilot a: "
+"well protected vessel! Well protected vessel! For well protected vessel: I "
+"provide Grant of Au-Au-auxiliary shielding! Grant of Auxiliary Shielding! "
+"Save it - for the future!\""
+
+#: src-en/data/events_special_multiverse.xml.append:18
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_multiverse.xml.append:24
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[2]/text"
+msgstr "Present your Weapons Amplifier system."
+
+#: src-en/data/events_special_multiverse.xml.append:26
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"\"Weapons Amplifier - truly a -curious- s-s-system! Learn, -adapt- and: "
+"overcome! Smart, for you: s-s-strike where enemy is weakest! Weakest! For "
+"the smart captain: I provide Grant of W-W-Weapons Amplifier! Grant of "
+"Weapons Amplifier! Save it - for the future!\""
+
+#: src-en/data/events_special_multiverse.xml.append:31
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_multiverse.xml.append:37
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[3]/text"
+msgstr "Present your Life Bloom system."
+
+#: src-en/data/events_special_multiverse.xml.append:39
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[3]/event/text"
+msgstr ""
+"\"Life Bloom - a -marvel- of bioengineering! I don't know m-m-much about "
+"-organics-, but you must show -care- to those flowers! Do you think they can"
+" understand you? Do you tell them s-s-stories? Even if y-y-you don't, I'm "
+"sure they -appreciate- your care! For the caring captain: I provide Grant of"
+" Life Bloom! Grant of Life Bloom! Save it - for the future!\""
+
+#: src-en/data/events_special_multiverse.xml.append:44
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[3]/event/choice/text"
+msgstr "Continue..."

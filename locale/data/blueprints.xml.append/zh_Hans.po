@@ -1,0 +1,201 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/blueprints.xml.append:5
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"oe_aux_shields\"]/title"
+msgstr "辅助护盾"
+
+#: src-en/data/blueprints.xml.append:6
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"oe_aux_shields\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:20
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_AUX_SHIELD_CAPACITY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:21
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_AUX_SHIELD_CAPACITY\"]/desc"
+msgstr "开发人员信息"
+
+#: src-en/data/blueprints.xml.append:27
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_AUX_SHIELD_CAPACITY\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:28
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_AUX_SHIELD_CAPACITY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:37
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_AUX_SHIELD_OVERCHARGER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:38
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_AUX_SHIELD_OVERCHARGER\"]/desc"
+msgstr "开发人员信息"
+
+#: src-en/data/blueprints.xml.append:44
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_AUX_SHIELD_OVERCHARGER\"]/title"
+msgstr "辅助过载器 [X]"
+
+#: src-en/data/blueprints.xml.append:45
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_AUX_SHIELD_OVERCHARGER\"]/desc"
+msgstr "开发人员信息"
+
+#: src-en/data/blueprints.xml.append:52
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_AUX_SHIELD_LINKER\"]/title"
+msgstr "同步计算机"
+
+#: src-en/data/blueprints.xml.append:53
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_AUX_SHIELD_LINKER\"]/desc"
+msgstr "开发人员信息"
+
+#: src-en/data/blueprints.xml.append:59
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_AUX_SHIELD_LINKER\"]/title"
+msgstr "同步计算机[X]"
+
+#: src-en/data/blueprints.xml.append:60
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_AUX_SHIELD_LINKER\"]/desc"
+msgstr ""
+"在产生辅助护盾时可为主护盾提供 50% 的增益；在产生主护盾时可为辅助护盾提供 50% 的增益。\n"
+"\n"
+"\t\t[X] - 作为外部系统升级，该装置将提供其常规效果，但会占用一个增强部件槽位。可在内部升级菜单中，免费转换为内部版本。"
+
+#: src-en/data/blueprints.xml.append:69
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_OE_AUX_SHIELDS\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:70
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_OE_AUX_SHIELDS\"]/desc"
+msgstr "开发人员信息"
+
+#: src-en/data/blueprints.xml.append:82
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"oe_grease\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:83
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"oe_grease\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:657
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_GREASE_IGNITER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:658
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_GREASE_IGNITER\"]/desc"
+msgstr "开发人员信息"
+
+#: src-en/data/blueprints.xml.append:665
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_GREASE_IGNITER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:666
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_GREASE_IGNITER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:675
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_GREASE_SWITCH\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:676
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_GREASE_SWITCH\"]/desc"
+msgstr "开发人员信息"
+
+#: src-en/data/blueprints.xml.append:682
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_GREASE_SWITCH\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:683
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_GREASE_SWITCH\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:691
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_OE_GREASE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:692
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_OE_GREASE\"]/desc"
+msgstr "开发人员信息"
+
+#: src-en/data/blueprints.xml.append:977
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"oe_growth\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:978
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"oe_growth\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:991
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_GROWTH_ROOT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:992
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_GROWTH_ROOT\"]/desc"
+msgstr "开发人员信息"
+
+#: src-en/data/blueprints.xml.append:999
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_GROWTH_ROOT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1000
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_GROWTH_ROOT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1009
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_GROWTH_EXTRA_BUD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1010
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_GROWTH_EXTRA_BUD\"]/desc"
+msgstr "开发人员信息"
+
+#: src-en/data/blueprints.xml.append:1016
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_GROWTH_EXTRA_BUD\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1017
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_GROWTH_EXTRA_BUD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1025
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_OE_GROWTH\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1026
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_OE_GROWTH\"]/desc"
+msgstr "开发人员信息"

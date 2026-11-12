@@ -1,0 +1,283 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_misc.xml.append:2
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_aux_shields\"]"
+msgstr "Duration: %i / Speed: %gx"
+
+#: src-en/data/text_misc.xml.append:3
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_aux_shields_boost\"]"
+msgstr ""
+"Overclock the Auxiliary Shields system, temporarily boosting the speed. "
+"Afterwards system becomes locked for %d seconds.\\nHotkey: %s"
+
+#: src-en/data/text_misc.xml.append:5
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_desc_single\"]"
+msgstr "%i charge"
+
+#: src-en/data/text_misc.xml.append:6
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_desc_plural\"]"
+msgstr "%i charges"
+
+#: src-en/data/text_misc.xml.append:7
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_weapon_enable\"]"
+msgstr "Enable consumption of Weapon Amplification charges for this weapon."
+
+#: src-en/data/text_misc.xml.append:8
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_weapon_disable\"]"
+msgstr "Disable consumption of Weapon Amplification charges for this weapon."
+
+#: src-en/data/text_misc.xml.append:9
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_current_enhancement\"]"
+msgstr "Current Enhancement: %s"
+
+#: src-en/data/text_misc.xml.append:11
+msgid "data/text_misc.xml.append$//text[@name=\"oe_aux_shields\"]"
+msgstr "Auxiliary Shields"
+
+#: src-en/data/text_misc.xml.append:12
+msgid "data/text_misc.xml.append$//text[@name=\"oe_aux_shields_installed\"]"
+msgstr "Auxiliary Shields System installed"
+
+#: src-en/data/text_misc.xml.append:14
+msgid "data/text_misc.xml.append$//text[@name=\"tooltip_oe_aux_shields\"]"
+msgstr ""
+"Auxiliary Shields: Generates super shield layers over time, can be boosted "
+"for a much higher rate temporarily."
+
+#: src-en/data/text_misc.xml.append:15
+msgid "data/text_misc.xml.append$//text[@name=\"tooltip_oe_aux_shields_enemy\"]"
+msgstr "Auxiliary Shields: Generates super shield layers."
+
+#: src-en/data/text_misc.xml.append:17
+msgid "data/text_misc.xml.append$//text[@name=\"oe_grease\"]"
+msgstr "Weapons Amplifier"
+
+#: src-en/data/text_misc.xml.append:18
+msgid "data/text_misc.xml.append$//text[@name=\"oe_grease_installed\"]"
+msgstr "Weapons Amplifier System installed"
+
+#: src-en/data/text_misc.xml.append:20
+msgid "data/text_misc.xml.append$//text[@name=\"tooltip_oe_grease\"]"
+msgstr ""
+"Weapons Amplifier:  Enhances the weapons you fire, can be modified to "
+"provide different effects."
+
+#: src-en/data/text_misc.xml.append:21
+msgid "data/text_misc.xml.append$//text[@name=\"tooltip_oe_grease_enemy\"]"
+msgstr ""
+"Weapons Amplifier: Enhances the weapons the enemy fires, depending on the "
+"enemy the system will enhance their weapons in different ways."
+
+#: src-en/data/text_misc.xml.append:23
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_fire\"]"
+msgstr "Causes the last projectile in the volley to start a fire on hit."
+
+#: src-en/data/text_misc.xml.append:24
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_frost\"]"
+msgstr ""
+"Causes the last projectile in the volley to create a short lockdown on hit."
+
+#: src-en/data/text_misc.xml.append:25
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_breach\"]"
+msgstr "Causes the last projectile in the volley to open a breach on hit."
+
+#: src-en/data/text_misc.xml.append:26
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_shock\"]"
+msgstr ""
+"Causes the last projectile in the volley to break and stun all doors in the "
+"room."
+
+#: src-en/data/text_misc.xml.append:27
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_shatter\"]"
+msgstr ""
+"Causes the last projectile in the volley to create an extremely weak "
+"lockdown, the next hit to this room while the lockdown is active will do 2x "
+"damage."
+
+#: src-en/data/text_misc.xml.append:28
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_acidic\"]"
+msgstr ""
+"Causes the last projectile in the volley to create acidic that erodes the "
+"system on hit."
+
+#: src-en/data/text_misc.xml.append:29
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_inculcation\"]"
+msgstr ""
+"Causes the last projectile in the volley to create inculcation gas on hit."
+
+#: src-en/data/text_misc.xml.append:30
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_marked\"]"
+msgstr ""
+"Causes the last projectile in the volley to target all friendly drones on "
+"hit."
+
+#: src-en/data/text_misc.xml.append:31
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_resurrection\"]"
+msgstr ""
+"When a projectile kills a crewmember, temporarily resurrect that crewmember "
+"on your side."
+
+#: src-en/data/text_misc.xml.append:32
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_cascade\"]"
+msgstr ""
+"When a projectile full breaks a system, deal system damage to an adjacent "
+"room."
+
+#: src-en/data/text_misc.xml.append:33
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_dd_soulplagued\"]"
+msgstr ""
+"Causes the last projectile in the volley to inflict the Plagueridden effect."
+
+#: src-en/data/text_misc.xml.append:34
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_dd_darkness\"]"
+msgstr ""
+"Causes the last projectile in the volley to inflict a chaotic, and "
+"potentially dark effect."
+
+#: src-en/data/text_misc.xml.append:35
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_dd_shadow_frost\"]"
+msgstr ""
+"Causes the last projectile in the volley to inflict a series of Shadow-"
+"Crystal lockdowns, and potentially spawn a Hungering Shadow."
+
+#: src-en/data/text_misc.xml.append:36
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_dd_radiant\"]"
+msgstr ""
+"Causes the last projectile in the volley to inflict the Radiant Desecration "
+"effect, and spawn a random Lightborne."
+
+#: src-en/data/text_misc.xml.append:37
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_chaos\"]"
+msgstr ""
+"Causes the last projectile in the volley to trigger a random effect that you"
+" have available."
+
+#: src-en/data/text_misc.xml.append:39
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_level\"]"
+msgstr "Speed: %g tiles/second"
+
+#: src-en/data/text_misc.xml.append:40
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_button_hover\"]"
+msgstr "Manage Life Bloom System."
+
+#: src-en/data/text_misc.xml.append:41
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_button_disabled_hover\"]"
+msgstr "Life Bloom System cannot be changed while in danger."
+
+#: src-en/data/text_misc.xml.append:43
+msgid "data/text_misc.xml.append$//text[@name=\"oe_growth\"]"
+msgstr "Life Bloom"
+
+#: src-en/data/text_misc.xml.append:44
+msgid "data/text_misc.xml.append$//text[@name=\"oe_growth_installed\"]"
+msgstr "Life Bloom System installed"
+
+#: src-en/data/text_misc.xml.append:46
+msgid "data/text_misc.xml.append$//text[@name=\"tooltip_oe_growth\"]"
+msgstr ""
+"Life Bloom: Grows across the ship, budding into rooms to provide oxygen and "
+"other effects."
+
+#: src-en/data/text_misc.xml.append:47
+msgid "data/text_misc.xml.append$//text[@name=\"tooltip_oe_growth_enemy\"]"
+msgstr ""
+"Life Bloom: Grows across the enemy ship, budding into rooms to provide "
+"oxygen and sometimes other effects."
+
+#: src-en/data/text_misc.xml.append:49
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_oxygen\"]"
+msgstr "Generates enough oxygen to sustain 3 rooms"
+
+#: src-en/data/text_misc.xml.append:50
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_floral\"]"
+msgstr ""
+"Friendly crew in the same room gain 20% Max Health, repair speed, and "
+"healing speed"
+
+#: src-en/data/text_misc.xml.append:51
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_vampweed\"]"
+msgstr ""
+"Enemy crew in the same room lose 15% of their Max Health and move 25% slower"
+
+#: src-en/data/text_misc.xml.append:52
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_praetor\"]"
+msgstr ""
+"Max rooms: 1\\nAll allied crew in the same room gain doubled Max Health, "
+"repair speed, and power generation."
+
+#: src-en/data/text_misc.xml.append:53
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_cultivator\"]"
+msgstr ""
+"Max rooms: 3\\nNearby enemies take 60% increased damage from ANY source and "
+"are stunned 50% longer."
+
+#: src-en/data/text_misc.xml.append:54
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_acidic\"]"
+msgstr ""
+"Releases Acidic Gas into the current room, repairs breaches over 10 seconds."
+
+#: src-en/data/text_misc.xml.append:55
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_suffocating\"]"
+msgstr ""
+"Drains the room of oxygen, Enemy crew in the same room take 50% more "
+"suffocation damage."
+
+#: src-en/data/text_misc.xml.append:56
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_entangling\"]"
+msgstr ""
+"Momentarily roots moving enemy crew in place for 1 second, dealing 15 "
+"damage, can retrigger after 0.5 seconds."
+
+#: src-en/data/text_misc.xml.append:57
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_trapping\"]"
+msgstr ""
+"While fully grown, will spend 50% of it's growth to lock down the room for "
+"10 seconds while enemy crew are inside. This bud grows at 50% speed."
+
+#: src-en/data/text_misc.xml.append:58
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_electrified\"]"
+msgstr ""
+"Max room: 1\\nProvides 1 bonus power, destroys enemy hacking drones that "
+"attach to this room at the end of their effect."
+
+#: src-en/data/text_misc.xml.append:59
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_dd_soulplagued\"]"
+msgstr ""
+"Inflicts the soulplagued debuff upon enemy crew in the room, lasts 12 "
+"seconds but cannot be reapplied by the bud for 15 seconds."
+
+#: src-en/data/text_misc.xml.append:60
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_root\"]"
+msgstr ""
+"Place the root of the system, the point in which the plant grows from."

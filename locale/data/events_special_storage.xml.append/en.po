@@ -1,0 +1,1312 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_storage.xml.append:5
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
+"append:choice[1]/text"
+msgstr "Auxiliary Shields."
+
+#: src-en/data/events_special_storage.xml.append:9
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
+"append:choice[2]/text"
+msgstr "Weapons Amplifier."
+
+#: src-en/data/events_special_storage.xml.append:13
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
+"append:choice[3]/text"
+msgstr "Life Bloom."
+
+#: src-en/data/events_special_storage.xml.append:22
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/text"
+msgstr "What upgrade do you want to install?"
+
+#: src-en/data/events_special_storage.xml.append:24
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[@req=\"oe_aux_shields\""
+" and @lvl=\"0\"]/text"
+msgstr "Level 3 Auxiliary Shields. [UNAVAILABLE: system is not level 2]"
+
+#: src-en/data/events_special_storage.xml.append:28
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[@req=\"oe_aux_shields\""
+" and @lvl=\"2\"]/text"
+msgstr "Level 3 Auxiliary Shields. [Cost: 65~, 3{, 1|]"
+
+#: src-en/data/events_special_storage.xml.append:32
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[@req=\"oe_aux_shields\""
+" and @lvl=\"3\"]/text"
+msgstr "Level 3 Auxiliary Shields. [ALREADY INSTALLED]"
+
+#: src-en/data/events_special_storage.xml.append:36
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[@req=\"UPG_OE_AUX_SHIELD_CAPACITY\""
+" and @lvl=\"1\"]/text"
+msgstr "Shield Capacitors. [ALREADY INSTALLED]"
+
+#: src-en/data/events_special_storage.xml.append:40
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[@req=\"UPG_OE_AUX_SHIELD_CAPACITY\""
+" and @lvl=\"0\"]/text"
+msgstr "Shield Capacitors. [Cost: 55~, 2{, 4}]"
+
+#: src-en/data/events_special_storage.xml.append:44
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[@req=\"UPG_OE_AUX_SHIELD_OVERCHARGER\""
+" and @lvl=\"1\"]/text"
+msgstr "Auxiliary Overcharger. [ALREADY INSTALLED]"
+
+#: src-en/data/events_special_storage.xml.append:48
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[@req=\"UPG_OE_AUX_SHIELD_OVERCHARGER\""
+" and @lvl=\"0\"]/text"
+msgstr "Auxiliary Overcharger. [Cost: 50~, 1{]"
+
+#: src-en/data/events_special_storage.xml.append:52
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[@req=\"UPG_OE_AUX_SHIELD_LINKER\""
+" and @lvl=\"1\"]/text"
+msgstr "Computer Synchronisation. [ALREADY INSTALLED]"
+
+#: src-en/data/events_special_storage.xml.append:56
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[@req=\"UPG_OE_AUX_SHIELD_LINKER\""
+" and @lvl=\"0\"]/text"
+msgstr "Computer Synchronisation. [Cost: 35~, 5|]"
+
+#: src-en/data/events_special_storage.xml.append:60
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[10]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:65
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS_LEVEL3\"]/text"
+msgstr ""
+"You are about to upgrade the Auxiliary Shields to level 3.\n"
+"\t[Effects: 15 second boost, is not compatible with Shield Capacitors]"
+
+#: src-en/data/events_special_storage.xml.append:68
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS_LEVEL3\"]/choice[@req=\"UPG_OE_AUX_SHIELD_CAPACITY\""
+" and @lvl=\"0\"]/text"
+msgstr "Perform the upgrade. [Cost: 65~, 3{, 1|]"
+
+#: src-en/data/events_special_storage.xml.append:70
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS_LEVEL3\"]/choice[@req=\"UPG_OE_AUX_SHIELD_CAPACITY\""
+" and @lvl=\"0\"]/event/text"
+msgstr "You install the upgrade."
+
+#: src-en/data/events_special_storage.xml.append:78
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS_LEVEL3\"]/choice[@req=\"UPG_OE_AUX_SHIELD_CAPACITY\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:84
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS_LEVEL3\"]/choice[@req=\"UPG_OE_AUX_SHIELD_CAPACITY\""
+" and @lvl=\"1\"]/text"
+msgstr "This upgrade is unavailable: not compatible with Shield Capacitors."
+
+#: src-en/data/events_special_storage.xml.append:88
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS_LEVEL3\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:94
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_CAPACITY\"]/text"
+msgstr ""
+"You are about to install the Shield Capacitors upgrade.\n"
+"\t[Effects: Removes the layer cap on the Auxiliary Shields system, allowing it to charge up to your super shield cap, or 5, whichever is higher, is not compatible with Auxiliary Shields lvl 3]"
+
+#: src-en/data/events_special_storage.xml.append:97
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_CAPACITY\"]/choice[@req=\"oe_aux_shields\""
+" and @lvl=\"1\"]/text"
+msgstr "Perform the upgrade. [Cost: 55~, 4}, 2{]"
+
+#: src-en/data/events_special_storage.xml.append:99
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_CAPACITY\"]/choice[@req=\"oe_aux_shields\""
+" and @lvl=\"1\"]/event/text"
+msgstr "You install the upgrade."
+
+#: src-en/data/events_special_storage.xml.append:106
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_CAPACITY\"]/choice[@req=\"oe_aux_shields\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:112
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_CAPACITY\"]/choice[@req=\"oe_aux_shields\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+"This upgrade is unavailable: not compatible with Auxiliary Shields Level 3."
+
+#: src-en/data/events_special_storage.xml.append:116
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_CAPACITY\"]/choice[@req=\"EX_OE_AUX_SHIELD_CAPACITY\"]/text"
+msgstr "Install the External Augment internally."
+
+#: src-en/data/events_special_storage.xml.append:118
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_CAPACITY\"]/choice[@req=\"EX_OE_AUX_SHIELD_CAPACITY\"]/event/text"
+msgstr "You install the upgrade."
+
+#: src-en/data/events_special_storage.xml.append:121
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_CAPACITY\"]/choice[@req=\"EX_OE_AUX_SHIELD_CAPACITY\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:127
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_CAPACITY\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:138
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_LINKER\"]/text"
+msgstr ""
+"You are about to install the Computer Synchronisation upgrade.\n"
+"\t[Effects: Manning in Auxiliary Shields also provides Shields with 50% of the bonus, Manning in Shields provides Auxiliary Shields with 50% of it's bonus.]"
+
+#: src-en/data/events_special_storage.xml.append:141
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_LINKER\"]/choice[1]/text"
+msgstr "Perform the upgrade. [Cost: 35~, 5|]"
+
+#: src-en/data/events_special_storage.xml.append:143
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_LINKER\"]/choice[1]/event/text"
+msgstr "You install the upgrade."
+
+#: src-en/data/events_special_storage.xml.append:149
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_LINKER\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:155
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_LINKER\"]/choice[@req=\"EX_OE_AUX_SHIELD_LINKER\"]/text"
+msgstr "Install the External Augment internally."
+
+#: src-en/data/events_special_storage.xml.append:157
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_LINKER\"]/choice[@req=\"EX_OE_AUX_SHIELD_LINKER\"]/event/text"
+msgstr "You install the upgrade."
+
+#: src-en/data/events_special_storage.xml.append:160
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_LINKER\"]/choice[@req=\"EX_OE_AUX_SHIELD_LINKER\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:166
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_LINKER\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:177
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_OVERCHARGER\"]/text"
+msgstr ""
+"You are about to install the Auxiliary Overcharger upgrade.\n"
+"\t[Effects: Grants all super shield layers that the system can generate on jump.]"
+
+#: src-en/data/events_special_storage.xml.append:180
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_OVERCHARGER\"]/choice[1]/text"
+msgstr "Perform the upgrade. [Cost: 50~, 1{]"
+
+#: src-en/data/events_special_storage.xml.append:182
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_OVERCHARGER\"]/choice[1]/event/text"
+msgstr "You install the upgrade."
+
+#: src-en/data/events_special_storage.xml.append:188
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_OVERCHARGER\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:194
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_OVERCHARGER\"]/choice[@req=\"EX_OE_AUX_SHIELD_OVERCHARGER\"]/text"
+msgstr "Install the External Augment internally."
+
+#: src-en/data/events_special_storage.xml.append:196
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_OVERCHARGER\"]/choice[@req=\"EX_OE_AUX_SHIELD_OVERCHARGER\"]/event/text"
+msgstr "You install the upgrade."
+
+#: src-en/data/events_special_storage.xml.append:199
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_OVERCHARGER\"]/choice[@req=\"EX_OE_AUX_SHIELD_OVERCHARGER\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:205
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_OVERCHARGER\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:220
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/text"
+msgstr "What upgrade do you want to install?"
+
+#: src-en/data/events_special_storage.xml.append:222
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"UPG_OE_GREASE_IGNITER\""
+" and @lvl=\"1\"]/text"
+msgstr "Pre-Ignited Canisters. [ALREADY INSTALLED]"
+
+#: src-en/data/events_special_storage.xml.append:226
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"UPG_OE_GREASE_IGNITER\""
+" and @lvl=\"0\"]/text"
+msgstr "Pre-Ignited Canisters. [Cost: 60~]"
+
+#: src-en/data/events_special_storage.xml.append:230
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"UPG_OE_GREASE_SWITCH\""
+" and @lvl=\"1\"]/text"
+msgstr "Fluid Recycler. [ALREADY INSTALLED]"
+
+#: src-en/data/events_special_storage.xml.append:234
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"UPG_OE_GREASE_SWITCH\""
+" and @lvl=\"0\"]/text"
+msgstr "Fluid Recycler. [Cost: 20~, 5{]"
+
+#: src-en/data/events_special_storage.xml.append:238
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[5]/text"
+msgstr "Fire Amplification. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:242
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[6]/text"
+msgstr "Frost Amplification. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:246
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[7]/text"
+msgstr "Breach Amplification. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:250
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_SHOCK\"]/text"
+msgstr "Shock Amplification. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:254
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_SHOCK\"]/text"
+msgstr "Shock Amplification."
+
+#: src-en/data/events_special_storage.xml.append:258
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_SHATTER\"]/text"
+msgstr "Shatter Amplification. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:262
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_SHATTER\"]/text"
+msgstr "Shatter Amplification."
+
+#: src-en/data/events_special_storage.xml.append:266
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_ACID\"]/text"
+msgstr "Acidic Amplification. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:270
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_ACID\"]/text"
+msgstr "Acidic Amplification."
+
+#: src-en/data/events_special_storage.xml.append:274
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_SHLEG\"]/text"
+msgstr "Inculcation Amplification. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:278
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_SHLEG\"]/text"
+msgstr "Inculcation Amplification."
+
+#: src-en/data/events_special_storage.xml.append:282
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_BIRD\"]/text"
+msgstr "Mark Amplification. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:286
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_BIRD\"]/text"
+msgstr "Mark Amplification."
+
+#: src-en/data/events_special_storage.xml.append:290
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_NECRO\"]/text"
+msgstr "Resurrection Amplification. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:294
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_NECRO\"]/text"
+msgstr "Resurrection Amplification."
+
+#: src-en/data/events_special_storage.xml.append:298
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_CASCADE\"]/text"
+msgstr "Cascade Amplification. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:302
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_CASCADE\"]/text"
+msgstr "Cascade Amplification."
+
+#: src-en/data/events_special_storage.xml.append:306
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_CHAOS\"]/text"
+msgstr "Chaos Amplification. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:310
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_CHAOS\"]/text"
+msgstr "Chaos Amplification."
+
+#: src-en/data/events_special_storage.xml.append:314
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_DD_SOULPLAGUE\"]/text"
+msgstr "Soulplague Amplification. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:318
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_DD_SOULPLAGUE\"]/text"
+msgstr "Soulplague Amplification."
+
+#: src-en/data/events_special_storage.xml.append:322
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_DD_DARKNESS\"]/text"
+msgstr "Darkness Amplification. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:326
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_DD_DARKNESS\"]/text"
+msgstr "Darkness Amplification."
+
+#: src-en/data/events_special_storage.xml.append:330
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_DD_SHADOW\"]/text"
+msgstr "Shadow-Frost Amplification. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:334
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_DD_SHADOW\"]/text"
+msgstr "Shadow-Frost Amplification."
+
+#: src-en/data/events_special_storage.xml.append:338
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_DD_RADIANT\"]/text"
+msgstr "Radiant Amplification. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:342
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_DD_RADIANT\"]/text"
+msgstr "Radiant Amplification."
+
+#: src-en/data/events_special_storage.xml.append:346
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[32]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:351
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHOCK\"]/text"
+msgstr ""
+"You have tech on your ship which can be scanned by your Weapons Amplifier.\n"
+"[Shock Enhancement: Causes the last projectile in the volley to break and stun all doors in the room.]\n"
+"It will take a while to scan, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:355
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHOCK\"]/choice[1]/text"
+msgstr "Proceed."
+
+#: src-en/data/events_special_storage.xml.append:357
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHOCK\"]/choice[1]/event/text"
+msgstr ""
+"Your system scans the technology, adding the enhancement to the system's "
+"library."
+
+#: src-en/data/events_special_storage.xml.append:361
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHOCK\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:367
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHOCK\"]/choice[2]/text"
+msgstr "Nevermind"
+
+#: src-en/data/events_special_storage.xml.append:372
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHATTER\"]/text"
+msgstr ""
+"You have tech on your ship which can be scanned by your Weapons Amplifier.\n"
+"[Shatter Enhancement: Causes the last projectile in the volley to create an extremely weak lockdown, the next hit to this room while the lockdown is active will do 2x damage.]\n"
+"It will take a while to scan, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:376
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHATTER\"]/choice[1]/text"
+msgstr "Proceed."
+
+#: src-en/data/events_special_storage.xml.append:378
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHATTER\"]/choice[1]/event/text"
+msgstr ""
+"Your system scans the technology, adding the enhancement to the system's "
+"library."
+
+#: src-en/data/events_special_storage.xml.append:382
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHATTER\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:388
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHATTER\"]/choice[2]/text"
+msgstr "Nevermind"
+
+#: src-en/data/events_special_storage.xml.append:393
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_ACID\"]/text"
+msgstr ""
+"You have tech on your ship which can be scanned by your Weapons Amplifier.\n"
+"[Acidic Enhancement: Causes the last projectile in the volley to create acidic that erodes the system on hit.]\n"
+"It will take a while to scan, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:397
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_ACID\"]/choice[1]/text"
+msgstr "Proceed."
+
+#: src-en/data/events_special_storage.xml.append:399
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_ACID\"]/choice[1]/event/text"
+msgstr ""
+"Your system scans the technology, adding the enhancement to the system's "
+"library."
+
+#: src-en/data/events_special_storage.xml.append:403
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_ACID\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:409
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_ACID\"]/choice[2]/text"
+msgstr "Nevermind"
+
+#: src-en/data/events_special_storage.xml.append:414
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHLEG\"]/text"
+msgstr ""
+"You have tech on your ship which can be scanned by your Weapons Amplifier.\n"
+"[Inculcation Enhancement: Causes the last projectile in the volley to create inculcation gas on hit.]\n"
+"It will take a while to scan, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:418
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHLEG\"]/choice[1]/text"
+msgstr "Proceed."
+
+#: src-en/data/events_special_storage.xml.append:420
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHLEG\"]/choice[1]/event/text"
+msgstr ""
+"Your system scans the technology, adding the enhancement to the system's "
+"library."
+
+#: src-en/data/events_special_storage.xml.append:424
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHLEG\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:430
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHLEG\"]/choice[2]/text"
+msgstr "Nevermind"
+
+#: src-en/data/events_special_storage.xml.append:435
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_BIRD\"]/text"
+msgstr ""
+"You have tech on your ship which can be scanned by your Weapons Amplifier.\n"
+"[Marked Enhancement: Causes the last projectile in the volley to target all friendly drones on hit.]\n"
+"It will take a while to scan, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:439
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_BIRD\"]/choice[1]/text"
+msgstr "Proceed."
+
+#: src-en/data/events_special_storage.xml.append:441
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_BIRD\"]/choice[1]/event/text"
+msgstr ""
+"Your system scans the technology, adding the enhancement to the system's "
+"library."
+
+#: src-en/data/events_special_storage.xml.append:445
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_BIRD\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:451
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_BIRD\"]/choice[2]/text"
+msgstr "Nevermind"
+
+#: src-en/data/events_special_storage.xml.append:456
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_NECRO\"]/text"
+msgstr ""
+"You have tech on your ship which can be scanned by your Weapons Amplifier.\n"
+"[Resurrection Enhancement: When a projectile kills a crewmember, temporarily resurrect that crewmember on your side.]\n"
+"It will take a while to scan, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:460
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_NECRO\"]/choice[1]/text"
+msgstr "Proceed."
+
+#: src-en/data/events_special_storage.xml.append:462
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_NECRO\"]/choice[1]/event/text"
+msgstr ""
+"Your system scans the technology, adding the enhancement to the system's "
+"library."
+
+#: src-en/data/events_special_storage.xml.append:466
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_NECRO\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:472
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_NECRO\"]/choice[2]/text"
+msgstr "Nevermind"
+
+#: src-en/data/events_special_storage.xml.append:477
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CASCADE\"]/text"
+msgstr ""
+"You have tech on your ship which can be scanned by your Weapons Amplifier.\n"
+"[Cascade Enhancement: When a projectile full breaks a system, deal system damage to an adjacent room.]\n"
+"It will take a while to scan, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:481
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CASCADE\"]/choice[1]/text"
+msgstr "Proceed."
+
+#: src-en/data/events_special_storage.xml.append:483
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CASCADE\"]/choice[1]/event/text"
+msgstr ""
+"Your system scans the technology, adding the enhancement to the system's "
+"library."
+
+#: src-en/data/events_special_storage.xml.append:487
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CASCADE\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:493
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CASCADE\"]/choice[2]/text"
+msgstr "Nevermind"
+
+#: src-en/data/events_special_storage.xml.append:498
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CHAOS\"]/text"
+msgstr ""
+"You have tech on your ship which can be scanned by your Weapons Amplifier.\n"
+"[Chaos Enhancement: Causes the last projectile in the volley to trigger a random effect that you have available.]\n"
+"It will take a while to scan, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:502
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CHAOS\"]/choice[1]/text"
+msgstr "Proceed."
+
+#: src-en/data/events_special_storage.xml.append:504
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CHAOS\"]/choice[1]/event/text"
+msgstr ""
+"Your system scans the technology, adding the enhancement to the system's "
+"library."
+
+#: src-en/data/events_special_storage.xml.append:508
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CHAOS\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:514
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CHAOS\"]/choice[2]/text"
+msgstr "Nevermind"
+
+#: src-en/data/events_special_storage.xml.append:519
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SOULPLAGUE\"]/text"
+msgstr ""
+"You have tech on your ship which can be scanned by your Weapons Amplifier.\n"
+"[Soulplague Enhancement: Causes the last projectile in the volley to inflict the Plagueridden effect.]\n"
+"It will take a while to scan, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:523
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SOULPLAGUE\"]/choice[1]/text"
+msgstr "Proceed."
+
+#: src-en/data/events_special_storage.xml.append:525
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SOULPLAGUE\"]/choice[1]/event/text"
+msgstr ""
+"Your system scans the technology, adding the enhancement to the system's "
+"library."
+
+#: src-en/data/events_special_storage.xml.append:529
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SOULPLAGUE\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:535
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SOULPLAGUE\"]/choice[2]/text"
+msgstr "Nevermind"
+
+#: src-en/data/events_special_storage.xml.append:540
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_DARKNESS\"]/text"
+msgstr ""
+"You have tech on your ship which can be scanned by your Weapons Amplifier.\n"
+"[Darkness Enhancement: Causes the last projectile in the volley to inflict a chaotic, and potentially dark effect.]\n"
+"It will take a while to scan, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:544
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_DARKNESS\"]/choice[1]/text"
+msgstr "Proceed."
+
+#: src-en/data/events_special_storage.xml.append:546
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_DARKNESS\"]/choice[1]/event/text"
+msgstr ""
+"Your system scans the technology, adding the enhancement to the system's "
+"library."
+
+#: src-en/data/events_special_storage.xml.append:550
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_DARKNESS\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:556
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_DARKNESS\"]/choice[2]/text"
+msgstr "Nevermind"
+
+#: src-en/data/events_special_storage.xml.append:561
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SHADOW\"]/text"
+msgstr ""
+"You have tech on your ship which can be scanned by your Weapons Amplifier.\n"
+"[Shadow-Frost Enhancement: Causes the last projectile in the volley to inflict a series of Shadow-Crystal lockdowns, and potentially spawn a Hungering Shadow.]\n"
+"It will take a while to scan, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:565
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SHADOW\"]/choice[1]/text"
+msgstr "Proceed."
+
+#: src-en/data/events_special_storage.xml.append:567
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SHADOW\"]/choice[1]/event/text"
+msgstr ""
+"Your system scans the technology, adding the enhancement to the system's "
+"library."
+
+#: src-en/data/events_special_storage.xml.append:571
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SHADOW\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:577
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SHADOW\"]/choice[2]/text"
+msgstr "Nevermind"
+
+#: src-en/data/events_special_storage.xml.append:582
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_RADIANT\"]/text"
+msgstr ""
+"You have tech on your ship which can be scanned by your Weapons Amplifier.\n"
+"[Radiant Enhancement: Causes the last projectile in the volley to inflict the Radiant Desecration effect, and spawn a random Lightborne.]\n"
+"It will take a while to scan, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:586
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_RADIANT\"]/choice[1]/text"
+msgstr "Proceed."
+
+#: src-en/data/events_special_storage.xml.append:588
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_RADIANT\"]/choice[1]/event/text"
+msgstr ""
+"Your system scans the technology, adding the enhancement to the system's "
+"library."
+
+#: src-en/data/events_special_storage.xml.append:592
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_RADIANT\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:598
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_RADIANT\"]/choice[2]/text"
+msgstr "Nevermind"
+
+#: src-en/data/events_special_storage.xml.append:604
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_IGNITER\"]/text"
+msgstr ""
+"You are about to install the Pre-Ignited Canisters upgrade.\n"
+"\t[Effects: System charges are refilled with each jump.]"
+
+#: src-en/data/events_special_storage.xml.append:607
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_IGNITER\"]/choice[1]/text"
+msgstr "Perform the upgrade. [Cost: 60~]"
+
+#: src-en/data/events_special_storage.xml.append:609
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_IGNITER\"]/choice[1]/event/text"
+msgstr "You install the upgrade."
+
+#: src-en/data/events_special_storage.xml.append:614
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_IGNITER\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:620
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_IGNITER\"]/choice[@req=\"EX_OE_GREASE_IGNITER\"]/text"
+msgstr "Install the External Augment internally."
+
+#: src-en/data/events_special_storage.xml.append:622
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_IGNITER\"]/choice[@req=\"EX_OE_GREASE_IGNITER\"]/event/text"
+msgstr "You install the upgrade."
+
+#: src-en/data/events_special_storage.xml.append:625
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_IGNITER\"]/choice[@req=\"EX_OE_GREASE_IGNITER\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:631
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_IGNITER\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:642
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_SWITCH\"]/text"
+msgstr ""
+"You are about to install the Fluid Recycler upgrade.\n"
+"\t[Effects: Switching enhancements no longer resets system charges.]"
+
+#: src-en/data/events_special_storage.xml.append:645
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_SWITCH\"]/choice[1]/text"
+msgstr "Perform the upgrade. [Cost: 20~, 5{]"
+
+#: src-en/data/events_special_storage.xml.append:647
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_SWITCH\"]/choice[1]/event/text"
+msgstr "You install the upgrade."
+
+#: src-en/data/events_special_storage.xml.append:653
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_SWITCH\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:659
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_SWITCH\"]/choice[@req=\"EX_OE_GREASE_SWITCH\"]/text"
+msgstr "Install the External Augment internally."
+
+#: src-en/data/events_special_storage.xml.append:661
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_SWITCH\"]/choice[@req=\"EX_OE_GREASE_SWITCH\"]/event/text"
+msgstr "You install the upgrade."
+
+#: src-en/data/events_special_storage.xml.append:664
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_SWITCH\"]/choice[@req=\"EX_OE_GREASE_SWITCH\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:670
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_SWITCH\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:684
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/text"
+msgstr "What upgrade do you want to install?"
+
+#: src-en/data/events_special_storage.xml.append:686
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"UPG_OE_GROWTH_EXTRA_BUD\""
+" and @lvl=\"1\"]/text"
+msgstr "Dual Stemmed. [ALREADY INSTALLED]"
+
+#: src-en/data/events_special_storage.xml.append:690
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"UPG_OE_GROWTH_EXTRA_BUD\""
+" and @lvl=\"0\"]/text"
+msgstr "Dual Stemmed. [Cost: 65~, 3{]"
+
+#: src-en/data/events_special_storage.xml.append:694
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"UPG_OE_GROWTH_ROOT\""
+" and @lvl=\"1\"]/text"
+msgstr "Bare-rooted. [ALREADY INSTALLED]"
+
+#: src-en/data/events_special_storage.xml.append:698
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"UPG_OE_GROWTH_ROOT\""
+" and @lvl=\"0\"]/text"
+msgstr "Bare-rooted. [Cost: 50~, 2|]"
+
+#: src-en/data/events_special_storage.xml.append:702
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_PRAETOR\"]/text"
+msgstr "Praetor Bud. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:706
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_REQ_BUD_PRAETOR\"]/text"
+msgstr "Praetor Bud."
+
+#: src-en/data/events_special_storage.xml.append:710
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_CULTIVATOR\"]/text"
+msgstr "Cultivator Bud. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:714
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_REQ_BUD_CULTIVATOR\"]/text"
+msgstr "Cultivator Bud."
+
+#: src-en/data/events_special_storage.xml.append:718
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_ACIDIC\"]/text"
+msgstr "Acidic Bud. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:722
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_REQ_BUD_ACIDIC\"]/text"
+msgstr "Acidic Bud."
+
+#: src-en/data/events_special_storage.xml.append:726
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_SUFFOCATING\""
+" and @lvl=\"1\"]/text"
+msgstr "Suffocating Bud. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:730
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_SUFFOCATING\""
+" and @lvl=\"0\"]/text"
+msgstr "Suffocating Bud. [Cost: 35~, 3{]"
+
+#: src-en/data/events_special_storage.xml.append:734
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_ENTANGLING\""
+" and @lvl=\"1\"]/text"
+msgstr "Entangling Bud. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:738
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_ENTANGLING\""
+" and @lvl=\"0\"]/text"
+msgstr "Entangling Bud. [Cost: 20~, 5{]"
+
+#: src-en/data/events_special_storage.xml.append:742
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_TRAPPING\""
+" and @lvl=\"1\"]/text"
+msgstr "Trapping Bud. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:746
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_TRAPPING\""
+" and @lvl=\"0\"]/text"
+msgstr "Trapping Bud. [8{]"
+
+#: src-en/data/events_special_storage.xml.append:750
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_ELECTRIFIED\""
+" and @lvl=\"1\"]/text"
+msgstr "Electrified Bud. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:754
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_ELECTRIFIED\""
+" and @lvl=\"0\"]/text"
+msgstr "Electrified Bud. [Cost: 15~, 3{, 5|]"
+
+#: src-en/data/events_special_storage.xml.append:758
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_DD_SOULPLAGUED\"]/text"
+msgstr "Soulplagued Bud. [ALREADY AVAILABLE]"
+
+#: src-en/data/events_special_storage.xml.append:762
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_REQ_BUD_DD_SOULPLAGUED\"]/text"
+msgstr "Soulplagued Bud."
+
+#: src-en/data/events_special_storage.xml.append:766
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[21]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:771
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_EXTRA_BUD\"]/text"
+msgstr ""
+"You are about to install the Dual Stemmed upgrade.\n"
+"\t[Effects: An extra bud grows in each room, can have the same or a different effect.]"
+
+#: src-en/data/events_special_storage.xml.append:774
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_EXTRA_BUD\"]/choice[@req=\"oe_growth\""
+" and @lvl=\"3\"]/text"
+msgstr "Perform the upgrade. [Cost: 65~, 3{]"
+
+#: src-en/data/events_special_storage.xml.append:776
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_EXTRA_BUD\"]/choice[@req=\"oe_growth\""
+" and @lvl=\"3\"]/event/text"
+msgstr "You install the upgrade."
+
+#: src-en/data/events_special_storage.xml.append:782
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_EXTRA_BUD\"]/choice[@req=\"oe_growth\""
+" and @lvl=\"3\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:788
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_EXTRA_BUD\"]/choice[@req=\"oe_growth\""
+" and @lvl=\"0\"]/text"
+msgstr "This upgrade is unavailable. You need Life Bloom level 3."
+
+#: src-en/data/events_special_storage.xml.append:792
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_EXTRA_BUD\"]/choice[@req=\"EX_OE_GROWTH_EXTRA_BUD\"]/text"
+msgstr "Install the External Augment internally."
+
+#: src-en/data/events_special_storage.xml.append:794
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_EXTRA_BUD\"]/choice[@req=\"EX_OE_GROWTH_EXTRA_BUD\"]/event/text"
+msgstr "You install the upgrade."
+
+#: src-en/data/events_special_storage.xml.append:797
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_EXTRA_BUD\"]/choice[@req=\"EX_OE_GROWTH_EXTRA_BUD\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:803
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_EXTRA_BUD\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:814
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_ROOT\"]/text"
+msgstr ""
+"You are about to install the Bare-rooted upgrade.\n"
+"\t[Effects: The roots of the Bloom can be placed in a different room, causing the system to grow out from that point rather than the system room.]"
+
+#: src-en/data/events_special_storage.xml.append:817
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_ROOT\"]/choice[@req=\"oe_growth\"]/text"
+msgstr "Perform the upgrade. [Cost: 50~, 2|]"
+
+#: src-en/data/events_special_storage.xml.append:819
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_ROOT\"]/choice[@req=\"oe_growth\"]/event/text"
+msgstr "You install the upgrade."
+
+#: src-en/data/events_special_storage.xml.append:825
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_ROOT\"]/choice[@req=\"oe_growth\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:835
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_ROOT\"]/choice[@req=\"EX_OE_GROWTH_ROOT\"]/text"
+msgstr "Install the External Augment internally."
+
+#: src-en/data/events_special_storage.xml.append:837
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_ROOT\"]/choice[@req=\"EX_OE_GROWTH_ROOT\"]/event/text"
+msgstr "You install the upgrade."
+
+#: src-en/data/events_special_storage.xml.append:840
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_ROOT\"]/choice[@req=\"EX_OE_GROWTH_ROOT\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:846
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_ROOT\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:857
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ACIDIC\"]/text"
+msgstr ""
+"You have something on your ship which can seed your Life Bloom System to create a new bud type.\n"
+"[Releases Acidic Gas into the current room, repairs breaches over 10 seconds.]\n"
+"It will take a while to incorporate, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:861
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ACIDIC\"]/choice[1]/text"
+msgstr "Proceed."
+
+#: src-en/data/events_special_storage.xml.append:863
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ACIDIC\"]/choice[1]/event/text"
+msgstr "Your Life Bloom System adds a new type of bud to it's growth."
+
+#: src-en/data/events_special_storage.xml.append:867
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ACIDIC\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:873
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ACIDIC\"]/choice[2]/text"
+msgstr "Nevermind"
+
+#: src-en/data/events_special_storage.xml.append:878
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_PRAETOR\"]/text"
+msgstr ""
+"You have something on your ship which can seed your Life Bloom System to create a new bud type.\n"
+"[Max rooms: 1, All allied crew in the same room gain doubled Max Health, repair speed, and power generation.]\n"
+"It will take a while to incorporate, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:882
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_PRAETOR\"]/choice[1]/text"
+msgstr "Proceed."
+
+#: src-en/data/events_special_storage.xml.append:884
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_PRAETOR\"]/choice[1]/event/text"
+msgstr "Your Life Bloom System adds a new type of bud to it's growth."
+
+#: src-en/data/events_special_storage.xml.append:888
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_PRAETOR\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:894
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_PRAETOR\"]/choice[2]/text"
+msgstr "Nevermind"
+
+#: src-en/data/events_special_storage.xml.append:899
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_CULTIVATOR\"]/text"
+msgstr ""
+"You have something on your ship which can seed your Life Bloom System to create a new bud type.\n"
+"[Max rooms: 3, Nearby enemies take 60% increased damage from ANY source and are stunned 50% longer.]\n"
+"It will take a while to incorporate, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:903
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_CULTIVATOR\"]/choice[1]/text"
+msgstr "Proceed."
+
+#: src-en/data/events_special_storage.xml.append:905
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_CULTIVATOR\"]/choice[1]/event/text"
+msgstr "Your Life Bloom System adds a new type of bud to it's growth."
+
+#: src-en/data/events_special_storage.xml.append:909
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_CULTIVATOR\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:915
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_CULTIVATOR\"]/choice[2]/text"
+msgstr "Nevermind"
+
+#: src-en/data/events_special_storage.xml.append:921
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_SUFFOCATING\"]/text"
+msgstr ""
+"You can feed your Life Bloom System with scrap and fuel to encourage it to produce a new kind of bud.\n"
+"[Drains the room of oxygen, Enemy crew in the same room take 50% more suffocation damage.]\n"
+"It will take a while to incorporate, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:925
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_SUFFOCATING\"]/choice[1]/text"
+msgstr "Proceed. [Cost: 35~, 3{]"
+
+#: src-en/data/events_special_storage.xml.append:927
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_SUFFOCATING\"]/choice[1]/event/text"
+msgstr "Your Life Bloom System adds a new type of bud to it's growth."
+
+#: src-en/data/events_special_storage.xml.append:935
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_SUFFOCATING\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:941
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_SUFFOCATING\"]/choice[2]/text"
+msgstr "Nevermind"
+
+#: src-en/data/events_special_storage.xml.append:946
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ENTANGLING\"]/text"
+msgstr ""
+"You can feed your Life Bloom System with scrap and fuel to encourage it to produce a new kind of bud.\n"
+"[Momentarily roots moving enemy crew in place for 1 second, dealing 15 damage, can retrigger after 0.5 seconds.]\n"
+"It will take a while to incorporate, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:950
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ENTANGLING\"]/choice[1]/text"
+msgstr "Proceed. [Cost: 20~, 5{]"
+
+#: src-en/data/events_special_storage.xml.append:952
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ENTANGLING\"]/choice[1]/event/text"
+msgstr "Your Life Bloom System adds a new type of bud to it's growth."
+
+#: src-en/data/events_special_storage.xml.append:960
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ENTANGLING\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:966
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ENTANGLING\"]/choice[2]/text"
+msgstr "Nevermind"
+
+#: src-en/data/events_special_storage.xml.append:971
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_TRAPPING\"]/text"
+msgstr ""
+"You can feed your Life Bloom System with scrap and fuel to encourage it to produce a new kind of bud.\n"
+"[While fully grown, will spend 50% of it's growth to lock down the room for 10 seconds while enemy crew are inside. This bud grows at 50% speed.]\n"
+"It will take a while to incorporate, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:975
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_TRAPPING\"]/choice[1]/text"
+msgstr "Proceed. [8{]"
+
+#: src-en/data/events_special_storage.xml.append:977
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_TRAPPING\"]/choice[1]/event/text"
+msgstr "Your Life Bloom System adds a new type of bud to it's growth."
+
+#: src-en/data/events_special_storage.xml.append:984
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_TRAPPING\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:990
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_TRAPPING\"]/choice[2]/text"
+msgstr "Nevermind"
+
+#: src-en/data/events_special_storage.xml.append:995
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ELECTRIFIED\"]/text"
+msgstr ""
+"You can feed your Life Bloom System with scrap and fuel to encourage it to produce a new kind of bud.\n"
+"[Max room: 1, Provides 1 bonus power, destroys enemy hacking drones that attach to this room at the end of their effect.]\n"
+"It will take a while to incorporate, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:999
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ELECTRIFIED\"]/choice[1]/text"
+msgstr "Proceed. [Cost: 15~, 3{, 5|]"
+
+#: src-en/data/events_special_storage.xml.append:1001
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ELECTRIFIED\"]/choice[1]/event/text"
+msgstr "Your Life Bloom System adds a new type of bud to it's growth."
+
+#: src-en/data/events_special_storage.xml.append:1010
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ELECTRIFIED\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1016
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ELECTRIFIED\"]/choice[2]/text"
+msgstr "Nevermind"
+
+#: src-en/data/events_special_storage.xml.append:1021
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_DD_SOULPLAGUED\"]/text"
+msgstr ""
+"You have something on your ship which can seed your Life Bloom System to create a new bud type.\n"
+"[Inflicts the Soulplagued debuff upon enemy crew in the room, lasts 12 seconds but cannot be reapplied by the bud for 15 seconds.]\n"
+"It will take a while to incorporate, giving the fleet time to catch up. Proceed?"
+
+#: src-en/data/events_special_storage.xml.append:1025
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_DD_SOULPLAGUED\"]/choice[1]/text"
+msgstr "Proceed."
+
+#: src-en/data/events_special_storage.xml.append:1027
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_DD_SOULPLAGUED\"]/choice[1]/event/text"
+msgstr "Your Life Bloom System adds a new type of bud to it's growth."
+
+#: src-en/data/events_special_storage.xml.append:1031
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_DD_SOULPLAGUED\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:1037
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_DD_SOULPLAGUED\"]/choice[2]/text"
+msgstr "Nevermind"

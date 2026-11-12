@@ -1,0 +1,120 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/hyperspace.xml.append:367
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[5]/mod:findLike/mod-"
+"append:category/customTitle"
+msgstr "TERTIARY SYSTEMS"
+
+#: src-en/data/hyperspace.xml.append:387
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod:findLike/mod:findLike[1]/mod:selector/@text"
+msgstr "The Outer Cluster"
+
+#: src-en/data/hyperspace.xml.append:390
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod:findLike/mod:findLike[2]/mod:selector/@text"
+msgstr "Unique Crew (OE)"
+
+#: src-en/data/hyperspace.xml.append:393
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod:findLike/mod:findLike[3]/mod:selector/@text"
+msgstr "Loot Transports (OE)"
+
+#: src-en/data/hyperspace.xml.append:396
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod:findLike/mod:findLike[4]/mod:selector/@text"
+msgstr "Renegade Cruisers (OE)"
+
+#: src-en/data/hyperspace.xml.append:399
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod:findLike/mod:findLike[5]/mod:selector/@text"
+msgstr "Music (OE)"
+
+#: src-en/data/hyperspace.xml.append:402
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod:findLike/mod:findLike[6]/mod:selector/@text"
+msgstr "Corby's Grants (OE)"
+
+#: src-en/data/hyperspace.xml.append:404
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_AUX_SHIELDS\"]/name"
+msgstr "Grant of Auxiliary Shields"
+
+#: src-en/data/hyperspace.xml.append:405
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_AUX_SHIELDS\"]/secretDescription"
+msgstr "Receive the Grant of Auxiliary Shields from Corby."
+
+#: src-en/data/hyperspace.xml.append:406
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_AUX_SHIELDS\"]/description"
+msgstr ""
+"Show an upgraded Auxiliary Shields System to Corby. \n"
+"\t\t\t\tWhile in effect; Add 1 energy shield layer after jump."
+
+#: src-en/data/hyperspace.xml.append:408
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_AUX_SHIELDS\"]/header"
+msgstr "Grant Received"
+
+#: src-en/data/hyperspace.xml.append:413
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_GREASE\"]/name"
+msgstr "Grant of Weapons Amplifier"
+
+#: src-en/data/hyperspace.xml.append:414
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_GREASE\"]/secretDescription"
+msgstr "Receive the Grant of Weapons Amplifier from Corby."
+
+#: src-en/data/hyperspace.xml.append:415
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_GREASE\"]/description"
+msgstr ""
+"Show an upgraded Weapons Amplifier System to Corby. \n"
+"\t\t\t\tWhile in effect; Enables a random locked amplification."
+
+#: src-en/data/hyperspace.xml.append:417
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_GREASE\"]/header"
+msgstr "Grant Received"
+
+#: src-en/data/hyperspace.xml.append:422
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_GROWTH\"]/name"
+msgstr "Grant of Life Bloom"
+
+#: src-en/data/hyperspace.xml.append:423
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_GROWTH\"]/secretDescription"
+msgstr "Receive the Grant of Life Bloom from Corby."
+
+#: src-en/data/hyperspace.xml.append:424
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_GROWTH\"]/description"
+msgstr ""
+"Show an upgraded Life Bloom System to Corby. \n"
+"\t\t\t\tWhile in effect; All crew gain 10% health for each power in the Life Bloom system."
+
+#: src-en/data/hyperspace.xml.append:426
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_GROWTH\"]/header"
+msgstr "Grant Received"
