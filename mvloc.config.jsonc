@@ -79,10 +79,7 @@
 
     "packaging": {
         "fullOriginal": [
-		    //assets1
-            "https://github.com/ftl-mv-translation/outer-expansion-systems/raw/outer-expansion-systems-english/FTL-Outer-Expansion-7.1.8_-_Assets.zip",
-			//data
-			"https://github.com/ftl-mv-translation/outer-expansion-systems/raw/outer-expansion-systems-english/FTL-Outer-Expansion-7.1.10_-_Data.zip",
+            "https://github.com/ftl-mv-translation/outer-expansion-systems/raw/outer-expansion-systems-english/Outer-Expansion_Systems_PATCH_LAST.zip",
         ],
         "prefix": "Outer-Expansion-Systems",
         "version": "1.2"
