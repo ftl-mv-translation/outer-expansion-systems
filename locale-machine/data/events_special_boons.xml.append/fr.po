@@ -1,0 +1,51 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_boons.xml.append:3
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_OE_AUX_SHIELDS\"]/text"
+msgstr ""
+"De nulle part, vous entendez une voix vous parler. \"Octroi de [Boucliers "
+"auxiliaires] i-i-installé. Installé ! L'octroi fournit : Une s-s-seule "
+"couche de boucliers énergétiques, se cumule avec d'autres boucliers "
+"énergétiques. Si -vous- voyez le p-p-précédent challenger ; dites merci. Je "
+"vous conseille de -me- rendre visite aussi.\""
+
+#: src-en/data/events_special_boons.xml.append:6
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_OE_AUX_SHIELDS\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_boons.xml.append:13
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_OE_GREASE\"]/text"
+msgstr ""
+"De nulle part, vous entendez une voix vous parler. \"Octroi de "
+"[Amplificateur d'armes] i-i-installé. Installé ! L'octroi fournit : Une a-a-"
+"amplification aléatoire a été activée pour vous. Si -vous- voyez le p-p-"
+"précédent challenger ; dites merci. Je vous conseille de -me- rendre visite "
+"aussi.\""
+
+#: src-en/data/events_special_boons.xml.append:16
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_OE_GREASE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_boons.xml.append:23
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_OE_GROWTH\"]/text"
+msgstr ""
+"De nulle part, vous entendez une voix vous parler. \"Octroi de [Floraison "
+"vitale] i-i-installé. Installé ! L'octroi fournit : Tout l'é-é-équipage "
+"gagne 10 % de santé pour chaque puissance dans le système de Floraison "
+"vitale. Si -vous- voyez le p-p-précédent challenger ; dites merci. Je vous "
+"conseille de -me- rendre visite aussi.\""
+
+#: src-en/data/events_special_boons.xml.append:26
+msgid ""
+"data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_OE_GROWTH\"]/choice/text"
+msgstr ""

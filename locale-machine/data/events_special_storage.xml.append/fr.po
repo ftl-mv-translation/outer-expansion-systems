@@ -1,0 +1,1335 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_storage.xml.append:5
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
+"append:choice[1]/text"
+msgstr "Boucliers auxiliaires."
+
+#: src-en/data/events_special_storage.xml.append:9
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
+"append:choice[2]/text"
+msgstr "Amplificateur d'armes."
+
+#: src-en/data/events_special_storage.xml.append:13
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
+"append:choice[3]/text"
+msgstr "Floraison vitale."
+
+#: src-en/data/events_special_storage.xml.append:22
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/text"
+msgstr "Quelle amélioration souhaitez-vous installer ?"
+
+#: src-en/data/events_special_storage.xml.append:24
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[@req=\"oe_aux_shields\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+"Boucliers auxiliaires niveau 3. [NON DISPONIBLE : le système n'est pas au "
+"niveau 2]"
+
+#: src-en/data/events_special_storage.xml.append:28
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[@req=\"oe_aux_shields\""
+" and @lvl=\"2\"]/text"
+msgstr "Boucliers auxiliaires niveau 3. [Coût : 65~, 3{, 1|]"
+
+#: src-en/data/events_special_storage.xml.append:32
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[@req=\"oe_aux_shields\""
+" and @lvl=\"3\"]/text"
+msgstr "Boucliers auxiliaires niveau 3. [DÉJÀ INSTALLÉ]"
+
+#: src-en/data/events_special_storage.xml.append:36
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[@req=\"UPG_OE_AUX_SHIELD_CAPACITY\""
+" and @lvl=\"1\"]/text"
+msgstr "Condensateurs de boucliers. [DÉJÀ INSTALLÉ]"
+
+#: src-en/data/events_special_storage.xml.append:40
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[@req=\"UPG_OE_AUX_SHIELD_CAPACITY\""
+" and @lvl=\"0\"]/text"
+msgstr "Condensateurs de boucliers. [Coût : 55~, 2{, 4}]"
+
+#: src-en/data/events_special_storage.xml.append:44
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[@req=\"UPG_OE_AUX_SHIELD_OVERCHARGER\""
+" and @lvl=\"1\"]/text"
+msgstr "Surchageur auxiliaire. [DÉJÀ INSTALLÉ]"
+
+#: src-en/data/events_special_storage.xml.append:48
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[@req=\"UPG_OE_AUX_SHIELD_OVERCHARGER\""
+" and @lvl=\"0\"]/text"
+msgstr "Surchageur auxiliaire. [Coût : 50~, 1{]"
+
+#: src-en/data/events_special_storage.xml.append:52
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[@req=\"UPG_OE_AUX_SHIELD_LINKER\""
+" and @lvl=\"1\"]/text"
+msgstr "Synchronisation informatique. [DÉJÀ INSTALLÉ]"
+
+#: src-en/data/events_special_storage.xml.append:56
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[@req=\"UPG_OE_AUX_SHIELD_LINKER\""
+" and @lvl=\"0\"]/text"
+msgstr "Synchronisation informatique. [Coût : 35~, 5|]"
+
+#: src-en/data/events_special_storage.xml.append:60
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS\"]/choice[10]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:65
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS_LEVEL3\"]/text"
+msgstr ""
+"Vous êtes sur le point d'améliorer les Boucliers auxiliaires au niveau 3.\n"
+"[Effets : boost de 15 secondes, n'est pas compatible avec les Condensateurs de boucliers]"
+
+#: src-en/data/events_special_storage.xml.append:68
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS_LEVEL3\"]/choice[@req=\"UPG_OE_AUX_SHIELD_CAPACITY\""
+" and @lvl=\"0\"]/text"
+msgstr "Effectuer l'amélioration. [Coût : 65~, 3{, 1|]"
+
+#: src-en/data/events_special_storage.xml.append:70
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS_LEVEL3\"]/choice[@req=\"UPG_OE_AUX_SHIELD_CAPACITY\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:78
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS_LEVEL3\"]/choice[@req=\"UPG_OE_AUX_SHIELD_CAPACITY\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:84
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS_LEVEL3\"]/choice[@req=\"UPG_OE_AUX_SHIELD_CAPACITY\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+"Cette amélioration n'est pas disponible : non compatible avec les "
+"Condensateurs de boucliers."
+
+#: src-en/data/events_special_storage.xml.append:88
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELDS_LEVEL3\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:94
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_CAPACITY\"]/text"
+msgstr ""
+"Vous êtes sur le point d'installer l'amélioration des Condensateurs de boucliers.\n"
+"[Effets : supprime la limite de couches du système de Boucliers auxiliaires, lui permettant de se charger jusqu'à votre limite de super boucliers, ou 5, selon la valeur la plus élevée, non compatible avec les Boucliers auxiliaires niv. 3]"
+
+#: src-en/data/events_special_storage.xml.append:97
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_CAPACITY\"]/choice[@req=\"oe_aux_shields\""
+" and @lvl=\"1\"]/text"
+msgstr "Effectuer l'amélioration. [Coût : 55~, 4}, 2{]"
+
+#: src-en/data/events_special_storage.xml.append:99
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_CAPACITY\"]/choice[@req=\"oe_aux_shields\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:106
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_CAPACITY\"]/choice[@req=\"oe_aux_shields\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:112
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_CAPACITY\"]/choice[@req=\"oe_aux_shields\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+"Cette amélioration n'est pas disponible : non compatible avec les Boucliers "
+"auxiliaires niveau 3."
+
+#: src-en/data/events_special_storage.xml.append:116
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_CAPACITY\"]/choice[@req=\"EX_OE_AUX_SHIELD_CAPACITY\"]/text"
+msgstr "Installer l'augmentation externe en interne."
+
+#: src-en/data/events_special_storage.xml.append:118
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_CAPACITY\"]/choice[@req=\"EX_OE_AUX_SHIELD_CAPACITY\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:121
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_CAPACITY\"]/choice[@req=\"EX_OE_AUX_SHIELD_CAPACITY\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:127
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_CAPACITY\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:138
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_LINKER\"]/text"
+msgstr ""
+"Vous êtes sur le point d'installer l'amélioration de Synchronisation informatique.\n"
+"[Effets : le pilotage des Boucliers auxiliaires fournit également 50 % du bonus aux Boucliers, le pilotage des Boucliers fournit aux Boucliers auxiliaires 50 % de son bonus.]"
+
+#: src-en/data/events_special_storage.xml.append:141
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_LINKER\"]/choice[1]/text"
+msgstr "Effectuer l'amélioration. [Coût : 35~, 5|]"
+
+#: src-en/data/events_special_storage.xml.append:143
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_LINKER\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:149
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_LINKER\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:155
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_LINKER\"]/choice[@req=\"EX_OE_AUX_SHIELD_LINKER\"]/text"
+msgstr "Installer l'augmentation externe en interne."
+
+#: src-en/data/events_special_storage.xml.append:157
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_LINKER\"]/choice[@req=\"EX_OE_AUX_SHIELD_LINKER\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:160
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_LINKER\"]/choice[@req=\"EX_OE_AUX_SHIELD_LINKER\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:166
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_LINKER\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:177
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_OVERCHARGER\"]/text"
+msgstr ""
+"Vous êtes sur le point d'installer l'amélioration Surchageur auxiliaire.\n"
+"[Effets : accorde toutes les couches de super bouclier que le système peut générer lors d'un saut.]"
+
+#: src-en/data/events_special_storage.xml.append:180
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_OVERCHARGER\"]/choice[1]/text"
+msgstr "Effectuer l'amélioration. [Coût : 50~, 1{]"
+
+#: src-en/data/events_special_storage.xml.append:182
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_OVERCHARGER\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:188
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_OVERCHARGER\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:194
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_OVERCHARGER\"]/choice[@req=\"EX_OE_AUX_SHIELD_OVERCHARGER\"]/text"
+msgstr "Installer l'augmentation externe en interne."
+
+#: src-en/data/events_special_storage.xml.append:196
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_OVERCHARGER\"]/choice[@req=\"EX_OE_AUX_SHIELD_OVERCHARGER\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:199
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_OVERCHARGER\"]/choice[@req=\"EX_OE_AUX_SHIELD_OVERCHARGER\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:205
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_AUX_SHIELD_OVERCHARGER\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:220
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/text"
+msgstr "Quelle amélioration souhaitez-vous installer ?"
+
+#: src-en/data/events_special_storage.xml.append:222
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"UPG_OE_GREASE_IGNITER\""
+" and @lvl=\"1\"]/text"
+msgstr "Cartouches pré-chargées. [DÉJÀ INSTALLÉ]"
+
+#: src-en/data/events_special_storage.xml.append:226
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"UPG_OE_GREASE_IGNITER\""
+" and @lvl=\"0\"]/text"
+msgstr "Cartouches pré-chargées. [Coût : 60~]"
+
+#: src-en/data/events_special_storage.xml.append:230
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"UPG_OE_GREASE_SWITCH\""
+" and @lvl=\"1\"]/text"
+msgstr "Recycleur de fluide. [DÉJÀ INSTALLÉ]"
+
+#: src-en/data/events_special_storage.xml.append:234
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"UPG_OE_GREASE_SWITCH\""
+" and @lvl=\"0\"]/text"
+msgstr "Recycleur de fluide. [Coût : 20~, 5{]"
+
+#: src-en/data/events_special_storage.xml.append:238
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[5]/text"
+msgstr "Amplification par le feu. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:242
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[6]/text"
+msgstr "Amplification par le givre. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:246
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[7]/text"
+msgstr "Amplification de brèche. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:250
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_SHOCK\"]/text"
+msgstr "Amplification par choc. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:254
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_SHOCK\"]/text"
+msgstr "Amplification par choc."
+
+#: src-en/data/events_special_storage.xml.append:258
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_SHATTER\"]/text"
+msgstr "Amplification par éclatement. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:262
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_SHATTER\"]/text"
+msgstr "Amplification par éclatement."
+
+#: src-en/data/events_special_storage.xml.append:266
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_ACID\"]/text"
+msgstr "Amplification acide. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:270
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_ACID\"]/text"
+msgstr "Amplification acide."
+
+#: src-en/data/events_special_storage.xml.append:274
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_SHLEG\"]/text"
+msgstr "Amplification d'inculcation. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:278
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_SHLEG\"]/text"
+msgstr "Amplification d'inculcation."
+
+#: src-en/data/events_special_storage.xml.append:282
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_BIRD\"]/text"
+msgstr "Amplification de marquage. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:286
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_BIRD\"]/text"
+msgstr "Amplification de marquage."
+
+#: src-en/data/events_special_storage.xml.append:290
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_NECRO\"]/text"
+msgstr "Amplification de résurrection. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:294
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_NECRO\"]/text"
+msgstr "Amplification de résurrection."
+
+#: src-en/data/events_special_storage.xml.append:298
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_CASCADE\"]/text"
+msgstr "Amplification en cascade. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:302
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_CASCADE\"]/text"
+msgstr "Amplification en cascade."
+
+#: src-en/data/events_special_storage.xml.append:306
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_CHAOS\"]/text"
+msgstr "Amplification par le chaos. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:310
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_CHAOS\"]/text"
+msgstr "Amplification par le chaos."
+
+#: src-en/data/events_special_storage.xml.append:314
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_DD_SOULPLAGUE\"]/text"
+msgstr "Amplification par la Peste d'Âme. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:318
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_DD_SOULPLAGUE\"]/text"
+msgstr "Amplification par la Peste d'Âme."
+
+#: src-en/data/events_special_storage.xml.append:322
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_DD_DARKNESS\"]/text"
+msgstr "Amplification par les ténèbres. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:326
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_DD_DARKNESS\"]/text"
+msgstr "Amplification par les ténèbres."
+
+#: src-en/data/events_special_storage.xml.append:330
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_DD_SHADOW\"]/text"
+msgstr "Amplification par ombre-givre. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:334
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_DD_SHADOW\"]/text"
+msgstr "Amplification par ombre-givre."
+
+#: src-en/data/events_special_storage.xml.append:338
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_EFFECT_DD_RADIANT\"]/text"
+msgstr "Amplification radiante. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:342
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[@req=\"OE_GREASE_REQ_EFFECT_DD_RADIANT\"]/text"
+msgstr "Amplification radiante."
+
+#: src-en/data/events_special_storage.xml.append:346
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE\"]/choice[32]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:351
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHOCK\"]/text"
+msgstr ""
+"Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n"
+"[Amélioration par choc : fait en sorte que le dernier projectile de la salve brise et étourdisse toutes les portes de la pièce.]\n"
+"Le scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:355
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHOCK\"]/choice[1]/text"
+msgstr "Continuer."
+
+#: src-en/data/events_special_storage.xml.append:357
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHOCK\"]/choice[1]/event/text"
+msgstr ""
+"Votre système scanne la technologie, ajoutant l'amélioration à la "
+"bibliothèque du système."
+
+#: src-en/data/events_special_storage.xml.append:361
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHOCK\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:367
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHOCK\"]/choice[2]/text"
+msgstr "Laissez tomber"
+
+#: src-en/data/events_special_storage.xml.append:372
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHATTER\"]/text"
+msgstr ""
+"Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n"
+"[Amélioration par éclatement : fait en sorte que le dernier projectile de la salve crée un verrouillage extrêmement faible, le prochain coup porté à cette pièce pendant que le verrouillage est actif infligera 2x plus de dégâts.]\n"
+"Le scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:376
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHATTER\"]/choice[1]/text"
+msgstr "Continuer."
+
+#: src-en/data/events_special_storage.xml.append:378
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHATTER\"]/choice[1]/event/text"
+msgstr ""
+"Votre système scanne la technologie, ajoutant l'amélioration à la "
+"bibliothèque du système."
+
+#: src-en/data/events_special_storage.xml.append:382
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHATTER\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:388
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHATTER\"]/choice[2]/text"
+msgstr "Laissez tomber"
+
+#: src-en/data/events_special_storage.xml.append:393
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_ACID\"]/text"
+msgstr ""
+"Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n"
+"[Amélioration acide : fait en sorte que le dernier projectile de la salve crée de l'acide qui érode le système à l'impact.]\n"
+"Le scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:397
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_ACID\"]/choice[1]/text"
+msgstr "Continuer."
+
+#: src-en/data/events_special_storage.xml.append:399
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_ACID\"]/choice[1]/event/text"
+msgstr ""
+"Votre système scanne la technologie, ajoutant l'amélioration à la "
+"bibliothèque du système."
+
+#: src-en/data/events_special_storage.xml.append:403
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_ACID\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:409
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_ACID\"]/choice[2]/text"
+msgstr "Laissez tomber"
+
+#: src-en/data/events_special_storage.xml.append:414
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHLEG\"]/text"
+msgstr ""
+"Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n"
+"[Amélioration d'inculcation : fait en sorte que le dernier projectile de la salve crée du gaz d'inculcation à l'impact.]\n"
+"Le scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:418
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHLEG\"]/choice[1]/text"
+msgstr "Continuer."
+
+#: src-en/data/events_special_storage.xml.append:420
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHLEG\"]/choice[1]/event/text"
+msgstr ""
+"Votre système scanne la technologie, ajoutant l'amélioration à la "
+"bibliothèque du système."
+
+#: src-en/data/events_special_storage.xml.append:424
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHLEG\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:430
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_SHLEG\"]/choice[2]/text"
+msgstr "Laissez tomber"
+
+#: src-en/data/events_special_storage.xml.append:435
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_BIRD\"]/text"
+msgstr ""
+"Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n"
+"[Amélioration de marquage : fait en sorte que le dernier projectile de la salve cible tous les drones alliés à l'impact.]\n"
+"Le scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:439
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_BIRD\"]/choice[1]/text"
+msgstr "Continuer."
+
+#: src-en/data/events_special_storage.xml.append:441
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_BIRD\"]/choice[1]/event/text"
+msgstr ""
+"Votre système scanne la technologie, ajoutant l'amélioration à la "
+"bibliothèque du système."
+
+#: src-en/data/events_special_storage.xml.append:445
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_BIRD\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:451
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_BIRD\"]/choice[2]/text"
+msgstr "Laissez tomber"
+
+#: src-en/data/events_special_storage.xml.append:456
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_NECRO\"]/text"
+msgstr ""
+"Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n"
+"[Amélioration de résurrection : lorsqu'un projectile tue un membre d'équipage, ressuscitez temporairement ce membre d'équipage de votre côté.]\n"
+"Le scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:460
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_NECRO\"]/choice[1]/text"
+msgstr "Continuer."
+
+#: src-en/data/events_special_storage.xml.append:462
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_NECRO\"]/choice[1]/event/text"
+msgstr ""
+"Votre système scanne la technologie, ajoutant l'amélioration à la "
+"bibliothèque du système."
+
+#: src-en/data/events_special_storage.xml.append:466
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_NECRO\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:472
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_NECRO\"]/choice[2]/text"
+msgstr "Laissez tomber"
+
+#: src-en/data/events_special_storage.xml.append:477
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CASCADE\"]/text"
+msgstr ""
+"Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n"
+"[Amélioration en cascade : lorsqu'un projectile détruit complètement un système, infligez des dégâts système à une pièce adjacente.]\n"
+"Le scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:481
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CASCADE\"]/choice[1]/text"
+msgstr "Continuer."
+
+#: src-en/data/events_special_storage.xml.append:483
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CASCADE\"]/choice[1]/event/text"
+msgstr ""
+"Votre système scanne la technologie, ajoutant l'amélioration à la "
+"bibliothèque du système."
+
+#: src-en/data/events_special_storage.xml.append:487
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CASCADE\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:493
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CASCADE\"]/choice[2]/text"
+msgstr "Laissez tomber"
+
+#: src-en/data/events_special_storage.xml.append:498
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CHAOS\"]/text"
+msgstr ""
+"Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n"
+"[Amélioration par le chaos : fait en sorte que le dernier projectile de la salve déclenche un effet aléatoire dont vous disposez.]\n"
+"Le scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:502
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CHAOS\"]/choice[1]/text"
+msgstr "Continuer."
+
+#: src-en/data/events_special_storage.xml.append:504
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CHAOS\"]/choice[1]/event/text"
+msgstr ""
+"Votre système scanne la technologie, ajoutant l'amélioration à la "
+"bibliothèque du système."
+
+#: src-en/data/events_special_storage.xml.append:508
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CHAOS\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:514
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_CHAOS\"]/choice[2]/text"
+msgstr "Laissez tomber"
+
+#: src-en/data/events_special_storage.xml.append:519
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SOULPLAGUE\"]/text"
+msgstr ""
+"Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n"
+"[Amélioration par la Peste d'Âme : fait en sorte que le dernier projectile de la salve inflige l'effet Plagueridden.]\n"
+"Le scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:523
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SOULPLAGUE\"]/choice[1]/text"
+msgstr "Continuer."
+
+#: src-en/data/events_special_storage.xml.append:525
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SOULPLAGUE\"]/choice[1]/event/text"
+msgstr ""
+"Votre système scanne la technologie, ajoutant l'amélioration à la "
+"bibliothèque du système."
+
+#: src-en/data/events_special_storage.xml.append:529
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SOULPLAGUE\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:535
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SOULPLAGUE\"]/choice[2]/text"
+msgstr "Laissez tomber"
+
+#: src-en/data/events_special_storage.xml.append:540
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_DARKNESS\"]/text"
+msgstr ""
+"Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n"
+"[Amélioration par les ténèbres : fait en sorte que le dernier projectile de la salve inflige un effet chaotique et potentiellement sombre.]\n"
+"Le scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:544
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_DARKNESS\"]/choice[1]/text"
+msgstr "Continuer."
+
+#: src-en/data/events_special_storage.xml.append:546
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_DARKNESS\"]/choice[1]/event/text"
+msgstr ""
+"Votre système scanne la technologie, ajoutant l'amélioration à la "
+"bibliothèque du système."
+
+#: src-en/data/events_special_storage.xml.append:550
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_DARKNESS\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:556
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_DARKNESS\"]/choice[2]/text"
+msgstr "Laissez tomber"
+
+#: src-en/data/events_special_storage.xml.append:561
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SHADOW\"]/text"
+msgstr ""
+"Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n"
+"[Amélioration par ombre-givre : fait en sorte que le dernier projectile de la salve inflige une série de verrouillages Cristal d'ombre, et potentiellement fait apparaître une Ombre affamée.]\n"
+"Le scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:565
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SHADOW\"]/choice[1]/text"
+msgstr "Continuer."
+
+#: src-en/data/events_special_storage.xml.append:567
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SHADOW\"]/choice[1]/event/text"
+msgstr ""
+"Votre système scanne la technologie, ajoutant l'amélioration à la "
+"bibliothèque du système."
+
+#: src-en/data/events_special_storage.xml.append:571
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SHADOW\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:577
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_SHADOW\"]/choice[2]/text"
+msgstr "Laissez tomber"
+
+#: src-en/data/events_special_storage.xml.append:582
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_RADIANT\"]/text"
+msgstr ""
+"Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n"
+"[Amélioration radiante : fait en sorte que le dernier projectile de la salve inflige l'effet Profanation radiante, et fait apparaître un Lightborne aléatoire.]\n"
+"Le scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:586
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_RADIANT\"]/choice[1]/text"
+msgstr "Continuer."
+
+#: src-en/data/events_special_storage.xml.append:588
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_RADIANT\"]/choice[1]/event/text"
+msgstr ""
+"Votre système scanne la technologie, ajoutant l'amélioration à la "
+"bibliothèque du système."
+
+#: src-en/data/events_special_storage.xml.append:592
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_RADIANT\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:598
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_EFFECT_DD_RADIANT\"]/choice[2]/text"
+msgstr "Laissez tomber"
+
+#: src-en/data/events_special_storage.xml.append:604
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_IGNITER\"]/text"
+msgstr ""
+"Vous êtes sur le point d'installer l'amélioration des Cartouches pré-chargées.\n"
+"[Effets : les charges du système sont remplies à chaque saut.]"
+
+#: src-en/data/events_special_storage.xml.append:607
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_IGNITER\"]/choice[1]/text"
+msgstr "Effectuer l'amélioration. [Coût : 60~]"
+
+#: src-en/data/events_special_storage.xml.append:609
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_IGNITER\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:614
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_IGNITER\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:620
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_IGNITER\"]/choice[@req=\"EX_OE_GREASE_IGNITER\"]/text"
+msgstr "Installer l'augmentation externe en interne."
+
+#: src-en/data/events_special_storage.xml.append:622
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_IGNITER\"]/choice[@req=\"EX_OE_GREASE_IGNITER\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:625
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_IGNITER\"]/choice[@req=\"EX_OE_GREASE_IGNITER\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:631
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_IGNITER\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:642
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_SWITCH\"]/text"
+msgstr ""
+"Vous êtes sur le point d'installer l'amélioration du Recycleur de fluide.\n"
+"[Effets : le changement d'améliorations ne réinitialise plus les charges du système.]"
+
+#: src-en/data/events_special_storage.xml.append:645
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_SWITCH\"]/choice[1]/text"
+msgstr "Effectuer l'amélioration. [Coût : 20~, 5{]"
+
+#: src-en/data/events_special_storage.xml.append:647
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_SWITCH\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:653
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_SWITCH\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:659
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_SWITCH\"]/choice[@req=\"EX_OE_GREASE_SWITCH\"]/text"
+msgstr "Installer l'augmentation externe en interne."
+
+#: src-en/data/events_special_storage.xml.append:661
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_SWITCH\"]/choice[@req=\"EX_OE_GREASE_SWITCH\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:664
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_SWITCH\"]/choice[@req=\"EX_OE_GREASE_SWITCH\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:670
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GREASE_SWITCH\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:684
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/text"
+msgstr "Quelle amélioration souhaitez-vous installer ?"
+
+#: src-en/data/events_special_storage.xml.append:686
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"UPG_OE_GROWTH_EXTRA_BUD\""
+" and @lvl=\"1\"]/text"
+msgstr "À double tige. [DÉJÀ INSTALLÉ]"
+
+#: src-en/data/events_special_storage.xml.append:690
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"UPG_OE_GROWTH_EXTRA_BUD\""
+" and @lvl=\"0\"]/text"
+msgstr "À double tige. [Coût : 65~, 3{]"
+
+#: src-en/data/events_special_storage.xml.append:694
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"UPG_OE_GROWTH_ROOT\""
+" and @lvl=\"1\"]/text"
+msgstr "À racines nues. [DÉJÀ INSTALLÉ]"
+
+#: src-en/data/events_special_storage.xml.append:698
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"UPG_OE_GROWTH_ROOT\""
+" and @lvl=\"0\"]/text"
+msgstr "À racines nues. [Coût : 50~, 2|]"
+
+#: src-en/data/events_special_storage.xml.append:702
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_PRAETOR\"]/text"
+msgstr "Bourgeon de Jardinier. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:706
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_REQ_BUD_PRAETOR\"]/text"
+msgstr "Bourgeon de Jardinier."
+
+#: src-en/data/events_special_storage.xml.append:710
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_CULTIVATOR\"]/text"
+msgstr "Bourgeon de Cultivateur. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:714
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_REQ_BUD_CULTIVATOR\"]/text"
+msgstr "Bourgeon de Cultivateur."
+
+#: src-en/data/events_special_storage.xml.append:718
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_ACIDIC\"]/text"
+msgstr "Bourgeon acide. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:722
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_REQ_BUD_ACIDIC\"]/text"
+msgstr "Bourgeon acide."
+
+#: src-en/data/events_special_storage.xml.append:726
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_SUFFOCATING\""
+" and @lvl=\"1\"]/text"
+msgstr "Bourgeon asphyxiant. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:730
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_SUFFOCATING\""
+" and @lvl=\"0\"]/text"
+msgstr "Bourgeon asphyxiant. [Coût : 35~, 3{]"
+
+#: src-en/data/events_special_storage.xml.append:734
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_ENTANGLING\""
+" and @lvl=\"1\"]/text"
+msgstr "Bourgeon enchevêtrant. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:738
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_ENTANGLING\""
+" and @lvl=\"0\"]/text"
+msgstr "Bourgeon enchevêtrant. [Coût : 20~, 5{]"
+
+#: src-en/data/events_special_storage.xml.append:742
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_TRAPPING\""
+" and @lvl=\"1\"]/text"
+msgstr "Bourgeon piège. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:746
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_TRAPPING\""
+" and @lvl=\"0\"]/text"
+msgstr "Bourgeon piège. [8{]"
+
+#: src-en/data/events_special_storage.xml.append:750
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_ELECTRIFIED\""
+" and @lvl=\"1\"]/text"
+msgstr "Bourgeon électrifié. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:754
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_ELECTRIFIED\""
+" and @lvl=\"0\"]/text"
+msgstr "Bourgeon électrifié. [Coût : 15~, 3{, 5|]"
+
+#: src-en/data/events_special_storage.xml.append:758
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_BUD_DD_SOULPLAGUED\"]/text"
+msgstr "Bourgeon de Peste d'Âme. [DÉJÀ DISPONIBLE]"
+
+#: src-en/data/events_special_storage.xml.append:762
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[@req=\"OE_GROWTH_REQ_BUD_DD_SOULPLAGUED\"]/text"
+msgstr "Bourgeon de Peste d'Âme."
+
+#: src-en/data/events_special_storage.xml.append:766
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH\"]/choice[21]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:771
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_EXTRA_BUD\"]/text"
+msgstr ""
+"Vous êtes sur le point d'installer l'amélioration À double tige.\n"
+"[Effets : un bourgeon supplémentaire pousse dans chaque pièce, pouvant avoir le même effet ou un effet différent.]"
+
+#: src-en/data/events_special_storage.xml.append:774
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_EXTRA_BUD\"]/choice[@req=\"oe_growth\""
+" and @lvl=\"3\"]/text"
+msgstr "Effectuer l'amélioration. [Coût : 65~, 3{]"
+
+#: src-en/data/events_special_storage.xml.append:776
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_EXTRA_BUD\"]/choice[@req=\"oe_growth\""
+" and @lvl=\"3\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:782
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_EXTRA_BUD\"]/choice[@req=\"oe_growth\""
+" and @lvl=\"3\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:788
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_EXTRA_BUD\"]/choice[@req=\"oe_growth\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+"Cette amélioration n'est pas disponible. Vous avez besoin de la Floraison "
+"vitale niveau 3."
+
+#: src-en/data/events_special_storage.xml.append:792
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_EXTRA_BUD\"]/choice[@req=\"EX_OE_GROWTH_EXTRA_BUD\"]/text"
+msgstr "Installer l'augmentation externe en interne."
+
+#: src-en/data/events_special_storage.xml.append:794
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_EXTRA_BUD\"]/choice[@req=\"EX_OE_GROWTH_EXTRA_BUD\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:797
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_EXTRA_BUD\"]/choice[@req=\"EX_OE_GROWTH_EXTRA_BUD\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:803
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_EXTRA_BUD\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:814
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_ROOT\"]/text"
+msgstr ""
+"Vous êtes sur le point d'installer l'amélioration À racines nues.\n"
+"[Effets : les racines de la Floraison peuvent être placées dans une pièce différente, faisant croître le système à partir de ce point plutôt que depuis la salle du système.]"
+
+#: src-en/data/events_special_storage.xml.append:817
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_ROOT\"]/choice[@req=\"oe_growth\"]/text"
+msgstr "Effectuer l'amélioration. [Coût : 50~, 2|]"
+
+#: src-en/data/events_special_storage.xml.append:819
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_ROOT\"]/choice[@req=\"oe_growth\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:825
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_ROOT\"]/choice[@req=\"oe_growth\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:835
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_ROOT\"]/choice[@req=\"EX_OE_GROWTH_ROOT\"]/text"
+msgstr "Installer l'augmentation externe en interne."
+
+#: src-en/data/events_special_storage.xml.append:837
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_ROOT\"]/choice[@req=\"EX_OE_GROWTH_ROOT\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:840
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_ROOT\"]/choice[@req=\"EX_OE_GROWTH_ROOT\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:846
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_ROOT\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:857
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ACIDIC\"]/text"
+msgstr ""
+"Vous avez quelque chose sur votre vaisseau qui peut ensemencer votre système de Floraison vitale pour créer un nouveau type de bourgeon.\n"
+"[Libère du gaz acide dans la pièce actuelle, répare les brèches en 10 secondes.]\n"
+"L'intégration prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:861
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ACIDIC\"]/choice[1]/text"
+msgstr "Continuer."
+
+#: src-en/data/events_special_storage.xml.append:863
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ACIDIC\"]/choice[1]/event/text"
+msgstr ""
+"Votre système de Floraison vitale ajoute un nouveau type de bourgeon à sa "
+"croissance."
+
+#: src-en/data/events_special_storage.xml.append:867
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ACIDIC\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:873
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ACIDIC\"]/choice[2]/text"
+msgstr "Laissez tomber"
+
+#: src-en/data/events_special_storage.xml.append:878
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_PRAETOR\"]/text"
+msgstr ""
+"Vous avez quelque chose sur votre vaisseau qui peut ensemencer votre système de Floraison vitale pour créer un nouveau type de bourgeon.\n"
+"[Nombre max de pièces : 1, tout l'équipage allié dans la même pièce gagne le double de Santé max, de vitesse de réparation et de génération d'énergie.]\n"
+"L'intégration prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:882
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_PRAETOR\"]/choice[1]/text"
+msgstr "Continuer."
+
+#: src-en/data/events_special_storage.xml.append:884
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_PRAETOR\"]/choice[1]/event/text"
+msgstr ""
+"Votre système de Floraison vitale ajoute un nouveau type de bourgeon à sa "
+"croissance."
+
+#: src-en/data/events_special_storage.xml.append:888
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_PRAETOR\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:894
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_PRAETOR\"]/choice[2]/text"
+msgstr "Laissez tomber"
+
+#: src-en/data/events_special_storage.xml.append:899
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_CULTIVATOR\"]/text"
+msgstr ""
+"Vous avez quelque chose sur votre vaisseau qui peut ensemencer votre système de Floraison vitale pour créer un nouveau type de bourgeon.\n"
+"[Nombre max de pièces : 3, les ennemis proches subissent 60 % de dégâts accrus de TOUTE source et sont étourdis 50 % plus longtemps.]\n"
+"L'intégration prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:903
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_CULTIVATOR\"]/choice[1]/text"
+msgstr "Continuer."
+
+#: src-en/data/events_special_storage.xml.append:905
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_CULTIVATOR\"]/choice[1]/event/text"
+msgstr ""
+"Votre système de Floraison vitale ajoute un nouveau type de bourgeon à sa "
+"croissance."
+
+#: src-en/data/events_special_storage.xml.append:909
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_CULTIVATOR\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:915
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_CULTIVATOR\"]/choice[2]/text"
+msgstr "Laissez tomber"
+
+#: src-en/data/events_special_storage.xml.append:921
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_SUFFOCATING\"]/text"
+msgstr ""
+"Vous pouvez nourrir votre système de Floraison vitale avec de la ferraille et du carburant pour l'encourager à produire un nouveau type de bourgeon.\n"
+"[Draine l'oxygène de la pièce, l'équipage ennemi dans la même pièce subit 50 % de dégâts de suffocation supplémentaires.]\n"
+"L'intégration prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:925
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_SUFFOCATING\"]/choice[1]/text"
+msgstr "Continuer. [Coût : 35~, 3{]"
+
+#: src-en/data/events_special_storage.xml.append:927
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_SUFFOCATING\"]/choice[1]/event/text"
+msgstr ""
+"Votre système de Floraison vitale ajoute un nouveau type de bourgeon à sa "
+"croissance."
+
+#: src-en/data/events_special_storage.xml.append:935
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_SUFFOCATING\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:941
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_SUFFOCATING\"]/choice[2]/text"
+msgstr "Laissez tomber"
+
+#: src-en/data/events_special_storage.xml.append:946
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ENTANGLING\"]/text"
+msgstr ""
+"Vous pouvez nourrir votre système de Floraison vitale avec de la ferraille et du carburant pour l'encourager à produire un nouveau type de bourgeon.\n"
+"[Enracine momentanément l'équipage ennemi en mouvement sur place pendant 1 seconde, infligeant 15 dégâts, peut se redéclencher après 0.5 secondes.]\n"
+"L'intégration prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:950
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ENTANGLING\"]/choice[1]/text"
+msgstr "Continuer. [Coût : 20~, 5{]"
+
+#: src-en/data/events_special_storage.xml.append:952
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ENTANGLING\"]/choice[1]/event/text"
+msgstr ""
+"Votre système de Floraison vitale ajoute un nouveau type de bourgeon à sa "
+"croissance."
+
+#: src-en/data/events_special_storage.xml.append:960
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ENTANGLING\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:966
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ENTANGLING\"]/choice[2]/text"
+msgstr "Laissez tomber"
+
+#: src-en/data/events_special_storage.xml.append:971
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_TRAPPING\"]/text"
+msgstr ""
+"Vous pouvez nourrir votre système de Floraison vitale avec de la ferraille et du carburant pour l'encourager à produire un nouveau type de bourgeon.\n"
+"[Une fois pleinement cultivé, dépensera 50 % de sa croissance pour verrouiller la pièce pendant 10 secondes tant que l'équipage ennemi est à l'intérieur. Ce bourgeon pousse à 50 % de sa vitesse.]\n"
+"L'intégration prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:975
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_TRAPPING\"]/choice[1]/text"
+msgstr "Continuer. [8{]"
+
+#: src-en/data/events_special_storage.xml.append:977
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_TRAPPING\"]/choice[1]/event/text"
+msgstr ""
+"Votre système de Floraison vitale ajoute un nouveau type de bourgeon à sa "
+"croissance."
+
+#: src-en/data/events_special_storage.xml.append:984
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_TRAPPING\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:990
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_TRAPPING\"]/choice[2]/text"
+msgstr "Laissez tomber"
+
+#: src-en/data/events_special_storage.xml.append:995
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ELECTRIFIED\"]/text"
+msgstr ""
+"Vous pouvez nourrir votre système de Floraison vitale avec de la ferraille et du carburant pour l'encourager à produire un nouveau type de bourgeon.\n"
+"[Nombre max de pièces : 1, fournit 1 puissance bonus, détruit les drones de piratage ennemis qui s'attachent à cette pièce à la fin de leur effet.]\n"
+"L'intégration prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:999
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ELECTRIFIED\"]/choice[1]/text"
+msgstr "Continuer. [Coût : 15~, 3{, 5|]"
+
+#: src-en/data/events_special_storage.xml.append:1001
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ELECTRIFIED\"]/choice[1]/event/text"
+msgstr ""
+"Votre système de Floraison vitale ajoute un nouveau type de bourgeon à sa "
+"croissance."
+
+#: src-en/data/events_special_storage.xml.append:1010
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ELECTRIFIED\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1016
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_ELECTRIFIED\"]/choice[2]/text"
+msgstr "Laissez tomber"
+
+#: src-en/data/events_special_storage.xml.append:1021
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_DD_SOULPLAGUED\"]/text"
+msgstr ""
+"Vous avez quelque chose sur votre vaisseau qui peut ensemencer votre système de Floraison vitale pour créer un nouveau type de bourgeon.\n"
+"[Inflige le malus Peste d'Âme à l'équipage ennemi dans la pièce, dure 12 secondes mais ne peut pas être réappliqué par le bourgeon pendant 15 secondes.]\n"
+"L'intégration prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+
+#: src-en/data/events_special_storage.xml.append:1025
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_DD_SOULPLAGUED\"]/choice[1]/text"
+msgstr "Continuer."
+
+#: src-en/data/events_special_storage.xml.append:1027
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_DD_SOULPLAGUED\"]/choice[1]/event/text"
+msgstr ""
+"Votre système de Floraison vitale ajoute un nouveau type de bourgeon à sa "
+"croissance."
+
+#: src-en/data/events_special_storage.xml.append:1031
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_DD_SOULPLAGUED\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1037
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_OE_GROWTH_BUD_DD_SOULPLAGUED\"]/choice[2]/text"
+msgstr "Laissez tomber"

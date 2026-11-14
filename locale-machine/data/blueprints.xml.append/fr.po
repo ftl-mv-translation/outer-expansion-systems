@@ -1,0 +1,226 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/blueprints.xml.append:5
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"oe_aux_shields\"]/title"
+msgstr "Boucliers auxiliaires"
+
+#: src-en/data/blueprints.xml.append:6
+msgid ""
+"data/blueprints.xml.append$//systemBlueprint[@name=\"oe_aux_shields\"]/desc"
+msgstr ""
+"Génère passivement des couches de super boucliers toutes les 8 secondes, "
+"peut être accéléré pour charger temporairement des couches toutes les 0.5 "
+"secondes avant d'entrer en temps de recharge. [Le niveau 3 est installé dans"
+" le menu de stockage]"
+
+#: src-en/data/blueprints.xml.append:20
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_AUX_SHIELD_CAPACITY\"]/title"
+msgstr "Condensateurs de boucliers"
+
+#: src-en/data/blueprints.xml.append:21
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_AUX_SHIELD_CAPACITY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:27
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_AUX_SHIELD_CAPACITY\"]/title"
+msgstr "Condensateurs de boucliers [X]"
+
+#: src-en/data/blueprints.xml.append:28
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_AUX_SHIELD_CAPACITY\"]/desc"
+msgstr ""
+"Supprime la limite de couches sur le système de boucliers auxiliaires, lui permettant de se charger jusqu'à votre limite de super boucliers, ou 5, selon la valeur la plus élevée.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être convertie gratuitement en version interne dans le menu des améliorations internes si vous possédez le système de camouflage."
+
+#: src-en/data/blueprints.xml.append:37
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_AUX_SHIELD_OVERCHARGER\"]/title"
+msgstr "Surchageur auxiliaire"
+
+#: src-en/data/blueprints.xml.append:38
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_AUX_SHIELD_OVERCHARGER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:44
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_AUX_SHIELD_OVERCHARGER\"]/title"
+msgstr "Surchageur auxiliaire [X]"
+
+#: src-en/data/blueprints.xml.append:45
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_AUX_SHIELD_OVERCHARGER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:52
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_AUX_SHIELD_LINKER\"]/title"
+msgstr "Synchronisation informatique"
+
+#: src-en/data/blueprints.xml.append:53
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_AUX_SHIELD_LINKER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:59
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_AUX_SHIELD_LINKER\"]/title"
+msgstr "Synchronisation informatique [X]"
+
+#: src-en/data/blueprints.xml.append:60
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_AUX_SHIELD_LINKER\"]/desc"
+msgstr ""
+"Le pilotage des boucliers auxiliaires fournit également 50 % du bonus aux boucliers, le pilotage des boucliers fournit aux boucliers auxiliaires 50 % de son bonus.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être convertie gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie de bord."
+
+#: src-en/data/blueprints.xml.append:69
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_OE_AUX_SHIELDS\"]/title"
+msgstr "Faveur des boucliers auxiliaires"
+
+#: src-en/data/blueprints.xml.append:70
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_OE_AUX_SHIELDS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:82
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"oe_grease\"]/title"
+msgstr "Amplificateur d'armes"
+
+#: src-en/data/blueprints.xml.append:83
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"oe_grease\"]/desc"
+msgstr ""
+"Accumule des charges qui améliorent vos armes, peut être équipé de "
+"différentes améliorations selon votre équipement et votre équipage. Peut "
+"scanner la technologie pour l'ajouter à sa bibliothèque d'améliorations."
+
+#: src-en/data/blueprints.xml.append:657
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_GREASE_IGNITER\"]/title"
+msgstr "Cartouches pré-chargées"
+
+#: src-en/data/blueprints.xml.append:658
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_GREASE_IGNITER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:665
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_GREASE_IGNITER\"]/title"
+msgstr "Cartouches pré-chargées [X]"
+
+#: src-en/data/blueprints.xml.append:666
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_GREASE_IGNITER\"]/desc"
+msgstr ""
+"Les charges du système sont remplies à chaque saut.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être convertie gratuitement en version interne dans le menu des améliorations internes si vous possédez le système de Salle des clones modifiée."
+
+#: src-en/data/blueprints.xml.append:675
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_GREASE_SWITCH\"]/title"
+msgstr "Recycleur de fluide"
+
+#: src-en/data/blueprints.xml.append:676
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_GREASE_SWITCH\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:682
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_GREASE_SWITCH\"]/title"
+msgstr "Recycleur de fluide [X]"
+
+#: src-en/data/blueprints.xml.append:683
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_GREASE_SWITCH\"]/desc"
+msgstr ""
+"Le changement d'améliorations ne réinitialise plus les charges du système.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être convertie gratuitement en version interne dans le menu des améliorations internes si vous possédez le système de Salle des clones modifiée."
+
+#: src-en/data/blueprints.xml.append:691
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_OE_GREASE\"]/title"
+msgstr "Amplificateur d'armes"
+
+#: src-en/data/blueprints.xml.append:692
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_OE_GREASE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:977
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"oe_growth\"]/title"
+msgstr "Floraison vitale"
+
+#: src-en/data/blueprints.xml.append:978
+msgid "data/blueprints.xml.append$//systemBlueprint[@name=\"oe_growth\"]/desc"
+msgstr ""
+"Un système organique qui se développe à travers le vaisseau, bourgeonnant "
+"dans les pièces pour fournir de l'oxygène et d'autres effets. Pousse deux "
+"fois plus vite hors combat."
+
+#: src-en/data/blueprints.xml.append:991
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_GROWTH_ROOT\"]/title"
+msgstr "À racines nues"
+
+#: src-en/data/blueprints.xml.append:992
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_GROWTH_ROOT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:999
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_GROWTH_ROOT\"]/title"
+msgstr "À racines nues [X]"
+
+#: src-en/data/blueprints.xml.append:1000
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_GROWTH_ROOT\"]/desc"
+msgstr ""
+"Les racines de la Floraison peuvent être placées dans une pièce différente, faisant croître le système à partir de ce point plutôt que depuis la salle du système.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être convertie gratuitement en version interne dans le menu des améliorations internes si vous possédez le système de Salle des clones modifiée."
+
+#: src-en/data/blueprints.xml.append:1009
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_GROWTH_EXTRA_BUD\"]/title"
+msgstr "À double tige"
+
+#: src-en/data/blueprints.xml.append:1010
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_OE_GROWTH_EXTRA_BUD\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1016
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_GROWTH_EXTRA_BUD\"]/title"
+msgstr "À double tige [X]"
+
+#: src-en/data/blueprints.xml.append:1017
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EX_OE_GROWTH_EXTRA_BUD\"]/desc"
+msgstr ""
+"Un bourgeon supplémentaire pousse dans chaque pièce, pouvant avoir le même effet ou un effet différent.\n"
+"\n"
+"[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être convertie gratuitement en version interne dans le menu des améliorations internes si vous possédez le système de Salle des clones modifiée."
+
+#: src-en/data/blueprints.xml.append:1025
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_OE_GROWTH\"]/title"
+msgstr "Floraison vitale"
+
+#: src-en/data/blueprints.xml.append:1026
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_OE_GROWTH\"]/desc"
+msgstr ""

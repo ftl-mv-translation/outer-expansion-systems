@@ -1,0 +1,120 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/hyperspace.xml.append:367
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[5]/mod:findLike/mod-"
+"append:category/customTitle"
+msgstr "SYSTÈMES TERTIAIRES"
+
+#: src-en/data/hyperspace.xml.append:387
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod:findLike/mod:findLike[1]/mod:selector/@text"
+msgstr "L'amas extérieur"
+
+#: src-en/data/hyperspace.xml.append:390
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod:findLike/mod:findLike[2]/mod:selector/@text"
+msgstr "Équipage unique (OE)"
+
+#: src-en/data/hyperspace.xml.append:393
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod:findLike/mod:findLike[3]/mod:selector/@text"
+msgstr "Transports de butin (OE)"
+
+#: src-en/data/hyperspace.xml.append:396
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod:findLike/mod:findLike[4]/mod:selector/@text"
+msgstr "Croiseurs renégats (OE)"
+
+#: src-en/data/hyperspace.xml.append:399
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod:findLike/mod:findLike[5]/mod:selector/@text"
+msgstr "Musique (OE)"
+
+#: src-en/data/hyperspace.xml.append:402
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod:findLike/mod:findLike[6]/mod:selector/@text"
+msgstr "Octrois de Corby (OE)"
+
+#: src-en/data/hyperspace.xml.append:404
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_AUX_SHIELDS\"]/name"
+msgstr "Octroi de Boucliers auxiliaires"
+
+#: src-en/data/hyperspace.xml.append:405
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_AUX_SHIELDS\"]/secretDescription"
+msgstr "Recevoir l'Octroi de Boucliers auxiliaires de Corby."
+
+#: src-en/data/hyperspace.xml.append:406
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_AUX_SHIELDS\"]/description"
+msgstr ""
+"Montrez un système de Boucliers auxiliaires amélioré à Corby.\n"
+"En cours ; Ajoute 1 couche de bouclier énergétique après chaque saut."
+
+#: src-en/data/hyperspace.xml.append:408
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_AUX_SHIELDS\"]/header"
+msgstr "Octroi reçu"
+
+#: src-en/data/hyperspace.xml.append:413
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_GREASE\"]/name"
+msgstr "Octroi d'Amplificateur d'armes"
+
+#: src-en/data/hyperspace.xml.append:414
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_GREASE\"]/secretDescription"
+msgstr "Recevoir l'Octroi d'Amplificateur d'armes de Corby."
+
+#: src-en/data/hyperspace.xml.append:415
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_GREASE\"]/description"
+msgstr ""
+"Montrez un système d'Amplificateur d'armes amélioré à Corby.\n"
+"En cours ; Active une amplification verrouillée aléatoire."
+
+#: src-en/data/hyperspace.xml.append:417
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_GREASE\"]/header"
+msgstr "Octroi reçu"
+
+#: src-en/data/hyperspace.xml.append:422
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_GROWTH\"]/name"
+msgstr "Octroi de Floraison vitale"
+
+#: src-en/data/hyperspace.xml.append:423
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_GROWTH\"]/secretDescription"
+msgstr "Recevoir l'Octroi de Floraison vitale de Corby."
+
+#: src-en/data/hyperspace.xml.append:424
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_GROWTH\"]/description"
+msgstr ""
+"Montrez un système de Floraison vitale amélioré à Corby.\n"
+"En cours ; Tout l'équipage gagne 10 % de santé pour chaque puissance dans le système de Floraison vitale."
+
+#: src-en/data/hyperspace.xml.append:426
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_OE_GROWTH\"]/header"
+msgstr "Octroi reçu"
