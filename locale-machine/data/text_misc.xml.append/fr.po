@@ -1,0 +1,299 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_misc.xml.append:2
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_aux_shields\"]"
+msgstr "Durée : %i / Vitesse : %gx"
+
+#: src-en/data/text_misc.xml.append:3
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_aux_shields_boost\"]"
+msgstr ""
+"Overclockez le système de Boucliers auxiliaires, augmentant temporairement la vitesse. Ensuite, le système est verrouillé pour %d secondes.\n"
+"Touche : %s"
+
+#: src-en/data/text_misc.xml.append:5
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_desc_single\"]"
+msgstr "%i charge"
+
+#: src-en/data/text_misc.xml.append:6
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_desc_plural\"]"
+msgstr "%i charges"
+
+#: src-en/data/text_misc.xml.append:7
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_weapon_enable\"]"
+msgstr ""
+"Activer la consommation des charges d'Amplification d'armes pour cette arme."
+
+#: src-en/data/text_misc.xml.append:8
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_weapon_disable\"]"
+msgstr ""
+"Désactiver la consommation des charges d'Amplification d'armes pour cette "
+"arme."
+
+#: src-en/data/text_misc.xml.append:9
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_current_enhancement\"]"
+msgstr "Amélioration actuelle : %s"
+
+#: src-en/data/text_misc.xml.append:11
+msgid "data/text_misc.xml.append$//text[@name=\"oe_aux_shields\"]"
+msgstr "Boucliers auxiliaires"
+
+#: src-en/data/text_misc.xml.append:12
+msgid "data/text_misc.xml.append$//text[@name=\"oe_aux_shields_installed\"]"
+msgstr "Système de Boucliers auxiliaires installé"
+
+#: src-en/data/text_misc.xml.append:14
+msgid "data/text_misc.xml.append$//text[@name=\"tooltip_oe_aux_shields\"]"
+msgstr ""
+"Boucliers auxiliaires : génère des couches de super bouclier au fil du "
+"temps, peut être accéléré pour un taux beaucoup plus élevé temporairement."
+
+#: src-en/data/text_misc.xml.append:15
+msgid "data/text_misc.xml.append$//text[@name=\"tooltip_oe_aux_shields_enemy\"]"
+msgstr "Boucliers auxiliaires : génère des couches de super bouclier."
+
+#: src-en/data/text_misc.xml.append:17
+msgid "data/text_misc.xml.append$//text[@name=\"oe_grease\"]"
+msgstr "Amplificateur d'armes"
+
+#: src-en/data/text_misc.xml.append:18
+msgid "data/text_misc.xml.append$//text[@name=\"oe_grease_installed\"]"
+msgstr "Système d'Amplificateur d'armes installé"
+
+#: src-en/data/text_misc.xml.append:20
+msgid "data/text_misc.xml.append$//text[@name=\"tooltip_oe_grease\"]"
+msgstr ""
+"Amplificateur d'armes : améliore les armes que vous tirez, peut être modifié"
+" pour fournir différents effets."
+
+#: src-en/data/text_misc.xml.append:21
+msgid "data/text_misc.xml.append$//text[@name=\"tooltip_oe_grease_enemy\"]"
+msgstr ""
+"Amplificateur d'armes : améliore les armes que l'ennemi tire, selon "
+"l'ennemi, le système améliorera leurs armes de différentes manières."
+
+#: src-en/data/text_misc.xml.append:23
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_fire\"]"
+msgstr ""
+"Fait en sorte que le dernier projectile de la salve provoque un incendie à "
+"l'impact."
+
+#: src-en/data/text_misc.xml.append:24
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_frost\"]"
+msgstr ""
+"Fait en sorte que le dernier projectile de la salve crée un court "
+"verrouillage à l'impact."
+
+#: src-en/data/text_misc.xml.append:25
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_breach\"]"
+msgstr ""
+"Fait en sorte que le dernier projectile de la salve ouvre une brèche à "
+"l'impact."
+
+#: src-en/data/text_misc.xml.append:26
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_shock\"]"
+msgstr ""
+"Fait en sorte que le dernier projectile de la salve brise et étourdisse "
+"toutes les portes de la pièce."
+
+#: src-en/data/text_misc.xml.append:27
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_shatter\"]"
+msgstr ""
+"Fait en sorte que le dernier projectile de la salve crée un verrouillage "
+"extrêmement faible, le prochain coup porté à cette pièce pendant que le "
+"verrouillage est actif infligera 2x plus de dégâts."
+
+#: src-en/data/text_misc.xml.append:28
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_acidic\"]"
+msgstr ""
+"Fait en sorte que le dernier projectile de la salve crée de l'acide qui "
+"érode le système à l'impact."
+
+#: src-en/data/text_misc.xml.append:29
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_inculcation\"]"
+msgstr ""
+"Fait en sorte que le dernier projectile de la salve crée du gaz "
+"d'inculcation à l'impact."
+
+#: src-en/data/text_misc.xml.append:30
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_marked\"]"
+msgstr ""
+"Fait en sorte que le dernier projectile de la salve cible tous les drones "
+"alliés à l'impact."
+
+#: src-en/data/text_misc.xml.append:31
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_resurrection\"]"
+msgstr ""
+"Lorsqu'un projectile tue un membre d'équipage, ressuscitez temporairement ce"
+" membre d'équipage de votre côté."
+
+#: src-en/data/text_misc.xml.append:32
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_cascade\"]"
+msgstr ""
+"Lorsqu'un projectile détruit complètement un système, infligez des dégâts "
+"système à une pièce adjacente."
+
+#: src-en/data/text_misc.xml.append:33
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_dd_soulplagued\"]"
+msgstr ""
+"Fait en sorte que le dernier projectile de la salve inflige l'effet "
+"Plagueridden."
+
+#: src-en/data/text_misc.xml.append:34
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_dd_darkness\"]"
+msgstr ""
+"Fait en sorte que le dernier projectile de la salve inflige un effet "
+"chaotique et potentiellement sombre."
+
+#: src-en/data/text_misc.xml.append:35
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_dd_shadow_frost\"]"
+msgstr ""
+"Fait en sorte que le dernier projectile de la salve inflige une série de "
+"verrouillages Cristal d'ombre, et potentiellement fait apparaître une Ombre "
+"affamée."
+
+#: src-en/data/text_misc.xml.append:36
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_dd_radiant\"]"
+msgstr ""
+"Fait en sorte que le dernier projectile de la salve inflige l'effet "
+"Profanation radiante, et fait apparaître un Lightborne aléatoire."
+
+#: src-en/data/text_misc.xml.append:37
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_grease_effect_chaos\"]"
+msgstr ""
+"Fait en sorte que le dernier projectile de la salve déclenche un effet "
+"aléatoire dont vous disposez."
+
+#: src-en/data/text_misc.xml.append:39
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_level\"]"
+msgstr "Vitesse : %g tuiles/seconde"
+
+#: src-en/data/text_misc.xml.append:40
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_button_hover\"]"
+msgstr "Gérer le système de Floraison vitale."
+
+#: src-en/data/text_misc.xml.append:41
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_button_disabled_hover\"]"
+msgstr ""
+"Le système de Floraison vitale ne peut pas être modifié en cas de danger."
+
+#: src-en/data/text_misc.xml.append:43
+msgid "data/text_misc.xml.append$//text[@name=\"oe_growth\"]"
+msgstr "Floraison vitale"
+
+#: src-en/data/text_misc.xml.append:44
+msgid "data/text_misc.xml.append$//text[@name=\"oe_growth_installed\"]"
+msgstr "Système de Floraison vitale installé"
+
+#: src-en/data/text_misc.xml.append:46
+msgid "data/text_misc.xml.append$//text[@name=\"tooltip_oe_growth\"]"
+msgstr ""
+"Floraison vitale : croît à travers le vaisseau, bourgeonnant dans les pièces"
+" pour fournir de l'oxygène et d'autres effets."
+
+#: src-en/data/text_misc.xml.append:47
+msgid "data/text_misc.xml.append$//text[@name=\"tooltip_oe_growth_enemy\"]"
+msgstr ""
+"Floraison vitale : croît à travers le vaisseau ennemi, bourgeonnant dans les"
+" pièces pour fournir de l'oxygène et parfois d'autres effets."
+
+#: src-en/data/text_misc.xml.append:49
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_oxygen\"]"
+msgstr "Génère assez d'oxygène pour soutenir 3 pièces"
+
+#: src-en/data/text_misc.xml.append:50
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_floral\"]"
+msgstr ""
+"L'équipage allié dans la même pièce gagne 20 % de Santé max, de vitesse de "
+"réparation et de vitesse de soin"
+
+#: src-en/data/text_misc.xml.append:51
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_vampweed\"]"
+msgstr ""
+"L'équipage ennemi dans la même pièce perd 15 % de sa Santé max et se déplace"
+" 25 % plus lentement"
+
+#: src-en/data/text_misc.xml.append:52
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_praetor\"]"
+msgstr ""
+"Nombre max de pièces : 1\\nTout l'équipage allié dans la même pièce gagne le"
+" double de Santé max, de vitesse de réparation et de génération d'énergie."
+
+#: src-en/data/text_misc.xml.append:53
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_cultivator\"]"
+msgstr ""
+"Nombre max de pièces : 3\\nLes ennemis proches subissent 60 % de dégâts "
+"accrus de TOUTE source et sont étourdis 50 % plus longtemps."
+
+#: src-en/data/text_misc.xml.append:54
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_acidic\"]"
+msgstr ""
+"Libère du gaz acide dans la pièce actuelle, répare les brèches en 10 "
+"secondes."
+
+#: src-en/data/text_misc.xml.append:55
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_suffocating\"]"
+msgstr ""
+"Draine l'oxygène de la pièce, l'équipage ennemi dans la même pièce subit 50 "
+"% de dégâts de suffocation supplémentaires."
+
+#: src-en/data/text_misc.xml.append:56
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_entangling\"]"
+msgstr ""
+"Enracine momentanément l'équipage ennemi en mouvement sur place pendant 1 "
+"seconde, infligeant 15 dégâts, peut se redéclencher après 0.5 secondes."
+
+#: src-en/data/text_misc.xml.append:57
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_trapping\"]"
+msgstr ""
+"Une fois pleinement cultivé, dépensera 50 % de sa croissance pour "
+"verrouiller la pièce pendant 10 secondes tant que l'équipage ennemi est à "
+"l'intérieur. Ce bourgeon pousse à 50 % de sa vitesse."
+
+#: src-en/data/text_misc.xml.append:58
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_electrified\"]"
+msgstr ""
+"Nombre max de pièces : 1\\nFournit 1 puissance bonus, détruit les drones de "
+"piratage ennemis qui s'attachent à cette pièce à la fin de leur effet."
+
+#: src-en/data/text_misc.xml.append:59
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_dd_soulplagued\"]"
+msgstr ""
+"Inflige le malus Peste d'Âme à l'équipage ennemi dans la pièce, dure 12 "
+"secondes mais ne peut pas être réappliqué par le bourgeon pendant 15 "
+"secondes."
+
+#: src-en/data/text_misc.xml.append:60
+msgid "data/text_misc.xml.append$//text[@name=\"oe_lua_sys_growth_effect_root\"]"
+msgstr ""
+"Placez la racine du système, le point à partir duquel la plante pousse."

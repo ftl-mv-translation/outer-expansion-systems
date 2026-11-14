@@ -1,0 +1,2380 @@
+{
+  "lang": "fr",
+  "originalLang": "en",
+  "version": "1.2",
+  "translation": {
+    "Ampere Battleship": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "Auxiliary Shields": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Boucliers auxiliaires"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Passively Generates super shield layers every 8 seconds, can be boosted to temporarily charge layers every 0.5 seconds before going on cooldown. [Level 3 is installed in the storage menu]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Génère passivement des couches de super boucliers toutes les 8 secondes, peut être accéléré pour charger temporairement des couches toutes les 0.5 secondes avant d'entrer en temps de recharge. [Le niveau 3 est installé dans le menu de stockage]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Shield Capacitors": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Condensateurs de boucliers"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "YOU SHOULD NEVER SEE THIS": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "Shield Capacitors [X]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Condensateurs de boucliers [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Removes the layer cap on the Auxiliary Shields system, allowing it to charge up to your super shield cap, or 5, whichever is higher.\n\t\t\n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Cloaking system.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Supprime la limite de couches sur le système de boucliers auxiliaires, lui permettant de se charger jusqu'à votre limite de super boucliers, ou 5, selon la valeur la plus élevée.\n\n[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être convertie gratuitement en version interne dans le menu des améliorations internes si vous possédez le système de camouflage."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Auxiliary Overcharger": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Surchageur auxiliaire"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Auxiliary Overcharger [X]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Surchageur auxiliaire [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Computer Synchronisation": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Synchronisation informatique"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Computer Synchronisation [X]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Synchronisation informatique [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Manning in Auxiliary Shields also provides Shields with 50% of the bonus, Manning in Shields provides Auxiliary Shields with 50% of it's bonus.\n    \n\t\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Le pilotage des boucliers auxiliaires fournit également 50 % du bonus aux boucliers, le pilotage des boucliers fournit aux boucliers auxiliaires 50 % de son bonus.\n\n[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être convertie gratuitement en version interne dans le menu des améliorations internes, dans la catégorie Technologie de bord."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Aux Shields boon": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Faveur des boucliers auxiliaires"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Weapons Amplifier": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplificateur d'armes"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Builds up charges which enhance your weapons, can be equipped with different enhancements depending on your equipment and crew. Can scan technology to add it to it's library of enhancements.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Accumule des charges qui améliorent vos armes, peut être équipé de différentes améliorations selon votre équipement et votre équipage. Peut scanner la technologie pour l'ajouter à sa bibliothèque d'améliorations."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Pre-Ignited Canisters": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Cartouches pré-chargées"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Pre-Ignited Canisters [X]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Cartouches pré-chargées [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "System charges are refilled with each jump.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Modified Clone Bay system.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Les charges du système sont remplies à chaque saut.\n\n[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être convertie gratuitement en version interne dans le menu des améliorations internes si vous possédez le système de Salle des clones modifiée."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fluid Recycler": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Recycleur de fluide"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fluid Recycler [X]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Recycleur de fluide [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Switching enhancements no longer resets system charges.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Modified Clone Bay system.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Le changement d'améliorations ne réinitialise plus les charges du système.\n\n[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être convertie gratuitement en version interne dans le menu des améliorations internes si vous possédez le système de Salle des clones modifiée."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Life Bloom": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Floraison vitale"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "An organic System which grows across the ship, budding into rooms to provide oxygen and other effects. Grows twice as fast out of combat.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Un système organique qui se développe à travers le vaisseau, bourgeonnant dans les pièces pour fournir de l'oxygène et d'autres effets. Pousse deux fois plus vite hors combat."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Bare-rooted": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "À racines nues"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Bare-rooted [X]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "À racines nues [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "The roots of the Bloom can be placed in a different room, causing the system to grow out from that point rather than the system room.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Modified Clone Bay system.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Les racines de la Floraison peuvent être placées dans une pièce différente, faisant croître le système à partir de ce point plutôt que depuis la salle du système.\n\n[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être convertie gratuitement en version interne dans le menu des améliorations internes si vous possédez le système de Salle des clones modifiée."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Dual Stemmed": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "À double tige"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Dual Stemmed [X]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "À double tige [X]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "An extra bud grows in each room, can have the same or a different effect.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Modified Clone Bay system.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Un bourgeon supplémentaire pousse dans chaque pièce, pouvant avoir le même effet ou un effet différent.\n\n[X] - En tant qu'amélioration externe, cette augmentation fournit son effet normal mais occupe un emplacement. Peut être convertie gratuitement en version interne dans le menu des améliorations internes si vous possédez le système de Salle des clones modifiée."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "From nowhere, you hear a voice speaking to you. \"Grant of [Auxiliary Shielding] i-i-installed. Installed! Grant provides: A s-s-single layer of energy shields, stacks with other energy shields. If -you- witness p-p-previous challenger; provide thanks. I advise you -visit- me as well.\"": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "De nulle part, vous entendez une voix vous parler. \"Octroi de [Boucliers auxiliaires] i-i-installé. Installé ! L'octroi fournit : Une s-s-seule couche de boucliers énergétiques, se cumule avec d'autres boucliers énergétiques. Si -vous- voyez le p-p-précédent challenger ; dites merci. Je vous conseille de -me- rendre visite aussi.\""
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Continue...": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "From nowhere, you hear a voice speaking to you. \"Grant of [Weapons Amplifier] i-i-installed. Installed! Grant provides: A r-r-random amplification has been enabled for you. If -you- witness p-p-previous challenger; provide thanks. I advise you -visit- me as well.\"": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "De nulle part, vous entendez une voix vous parler. \"Octroi de [Amplificateur d'armes] i-i-installé. Installé ! L'octroi fournit : Une a-a-amplification aléatoire a été activée pour vous. Si -vous- voyez le p-p-précédent challenger ; dites merci. Je vous conseille de -me- rendre visite aussi.\""
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "From nowhere, you hear a voice speaking to you. \"Grant of [Life Bloom] i-i-installed. Installed! Grant provides: All c-c-crew gain 10% health for each power in the Life Bloom system. If -you- witness p-p-previous challenger; provide thanks. I advise you -visit- me as well.\"": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "De nulle part, vous entendez une voix vous parler. \"Octroi de [Floraison vitale] i-i-installé. Installé ! L'octroi fournit : Tout l'é-é-équipage gagne 10 % de santé pour chaque puissance dans le système de Floraison vitale. Si -vous- voyez le p-p-précédent challenger ; dites merci. Je vous conseille de -me- rendre visite aussi.\""
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Present your Auxiliary Shields system.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Présentez votre système de Boucliers auxiliaires."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"Auxiliary Shields - defensive p-p-p-procedures they ensure! You pilot a: well protected vessel! Well protected vessel! For well protected vessel: I provide Grant of Au-Au-auxiliary shielding! Grant of Auxiliary Shielding! Save it - for the future!\"": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "\"Boucliers auxiliaires - ils assurent des p-p-p-procédures défensives ! Vous pilotez un : vaisseau bien protégé ! Vaisseau bien protégé ! Pour un vaisseau bien protégé : j'accorde l'Octroi de Boucliers au-au-auxiliaires ! Octroi de Boucliers auxiliaires ! Gardez-le - pour le futur !\""
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Present your Weapons Amplifier system.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Présentez votre système d'Amplificateur d'armes."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"Weapons Amplifier - truly a -curious- s-s-system! Learn, -adapt- and: overcome! Smart, for you: s-s-strike where enemy is weakest! Weakest! For the smart captain: I provide Grant of W-W-Weapons Amplifier! Grant of Weapons Amplifier! Save it - for the future!\"": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "\"Amplificateur d'armes - vraiment un s-s-système -curieux- ! Apprendre, -s'adapter- et : surmonter ! Intelligent, car vous : f-f-frappez là où l'ennemi est le plus faible ! Le plus faible ! Pour le capitaine intelligent : j'accorde l'Octroi d'A-A-Amplificateur d'armes ! Octroi d'Amplificateur d'armes ! Gardez-le - pour le futur !\""
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Present your Life Bloom system.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Présentez votre système de Floraison vitale."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"Life Bloom - a -marvel- of bioengineering! I don't know m-m-much about -organics-, but you must show -care- to those flowers! Do you think they can understand you? Do you tell them s-s-stories? Even if y-y-you don't, I'm sure they -appreciate- your care! For the caring captain: I provide Grant of Life Bloom! Grant of Life Bloom! Save it - for the future!\"": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "\"Floraison vitale - une -merveille- de bio-ingénierie ! Je n'en sais p-p-pas beaucoup sur les -organiques-, mais vous devez prendre -soin- de ces fleurs ! Pensez-vous qu'elles peuvent vous comprendre ? Leur racontez-vous des h-h-histoires ? Même si v-v-vous ne le faites pas, je suis sûr qu'elles -apprécient- votre soin ! Pour le capitaine bienveillant : j'accorde l'Octroi de Floraison vitale ! Octroi de Floraison vitale ! Gardez-le - pour le futur !\""
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Auxiliary Shields.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Boucliers auxiliaires."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Weapons Amplifier.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplificateur d'armes."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Life Bloom.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Floraison vitale."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "What upgrade do you want to install?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Quelle amélioration souhaitez-vous installer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Level 3 Auxiliary Shields. [UNAVAILABLE: system is not level 2]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Boucliers auxiliaires niveau 3. [NON DISPONIBLE : le système n'est pas au niveau 2]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Level 3 Auxiliary Shields. [Cost: 65~, 3{, 1|]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Boucliers auxiliaires niveau 3. [Coût : 65~, 3{, 1|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Level 3 Auxiliary Shields. [ALREADY INSTALLED]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Boucliers auxiliaires niveau 3. [DÉJÀ INSTALLÉ]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Shield Capacitors. [ALREADY INSTALLED]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Condensateurs de boucliers. [DÉJÀ INSTALLÉ]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Shield Capacitors. [Cost: 55~, 2{, 4}]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Condensateurs de boucliers. [Coût : 55~, 2{, 4}]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Auxiliary Overcharger. [ALREADY INSTALLED]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Surchageur auxiliaire. [DÉJÀ INSTALLÉ]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Auxiliary Overcharger. [Cost: 50~, 1{]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Surchageur auxiliaire. [Coût : 50~, 1{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Computer Synchronisation. [ALREADY INSTALLED]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Synchronisation informatique. [DÉJÀ INSTALLÉ]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Computer Synchronisation. [Cost: 35~, 5|]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Synchronisation informatique. [Coût : 35~, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Nevermind.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "You are about to upgrade the Auxiliary Shields to level 3.\n\t[Effects: 15 second boost, is not compatible with Shield Capacitors]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous êtes sur le point d'améliorer les Boucliers auxiliaires au niveau 3.\n[Effets : boost de 15 secondes, n'est pas compatible avec les Condensateurs de boucliers]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 65~, 3{, 1|]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Effectuer l'amélioration. [Coût : 65~, 3{, 1|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You install the upgrade.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "This upgrade is unavailable: not compatible with Shield Capacitors.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Cette amélioration n'est pas disponible : non compatible avec les Condensateurs de boucliers."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Shield Capacitors upgrade.\n\t[Effects: Removes the layer cap on the Auxiliary Shields system, allowing it to charge up to your super shield cap, or 5, whichever is higher, is not compatible with Auxiliary Shields lvl 3]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous êtes sur le point d'installer l'amélioration des Condensateurs de boucliers.\n[Effets : supprime la limite de couches du système de Boucliers auxiliaires, lui permettant de se charger jusqu'à votre limite de super boucliers, ou 5, selon la valeur la plus élevée, non compatible avec les Boucliers auxiliaires niv. 3]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 55~, 4}, 2{]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Effectuer l'amélioration. [Coût : 55~, 4}, 2{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable: not compatible with Auxiliary Shields Level 3.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Cette amélioration n'est pas disponible : non compatible avec les Boucliers auxiliaires niveau 3."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Install the External Augment internally.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Installer l'augmentation externe en interne."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Computer Synchronisation upgrade.\n\t[Effects: Manning in Auxiliary Shields also provides Shields with 50% of the bonus, Manning in Shields provides Auxiliary Shields with 50% of it's bonus.]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous êtes sur le point d'installer l'amélioration de Synchronisation informatique.\n[Effets : le pilotage des Boucliers auxiliaires fournit également 50 % du bonus aux Boucliers, le pilotage des Boucliers fournit aux Boucliers auxiliaires 50 % de son bonus.]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 35~, 5|]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Effectuer l'amélioration. [Coût : 35~, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Auxiliary Overcharger upgrade.\n\t[Effects: Grants all super shield layers that the system can generate on jump.]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous êtes sur le point d'installer l'amélioration Surchageur auxiliaire.\n[Effets : accorde toutes les couches de super bouclier que le système peut générer lors d'un saut.]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 50~, 1{]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Effectuer l'amélioration. [Coût : 50~, 1{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Pre-Ignited Canisters. [ALREADY INSTALLED]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Cartouches pré-chargées. [DÉJÀ INSTALLÉ]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Pre-Ignited Canisters. [Cost: 60~]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Cartouches pré-chargées. [Coût : 60~]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fluid Recycler. [ALREADY INSTALLED]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Recycleur de fluide. [DÉJÀ INSTALLÉ]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fluid Recycler. [Cost: 20~, 5{]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Recycleur de fluide. [Coût : 20~, 5{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Fire Amplification. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification par le feu. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Frost Amplification. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification par le givre. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Breach Amplification. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification de brèche. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Shock Amplification. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification par choc. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Shock Amplification.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification par choc."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Shatter Amplification. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification par éclatement. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Shatter Amplification.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification par éclatement."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Acidic Amplification. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification acide. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Acidic Amplification.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification acide."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Inculcation Amplification. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification d'inculcation. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Inculcation Amplification.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification d'inculcation."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Mark Amplification. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification de marquage. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Mark Amplification.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification de marquage."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Resurrection Amplification. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification de résurrection. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Resurrection Amplification.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification de résurrection."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Cascade Amplification. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification en cascade. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Cascade Amplification.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification en cascade."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Chaos Amplification. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification par le chaos. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Chaos Amplification.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification par le chaos."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Soulplague Amplification. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification par la Peste d'Âme. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Soulplague Amplification.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification par la Peste d'Âme."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Darkness Amplification. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification par les ténèbres. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Darkness Amplification.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification par les ténèbres."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Shadow-Frost Amplification. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification par ombre-givre. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Shadow-Frost Amplification.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification par ombre-givre."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Radiant Amplification. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification radiante. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Radiant Amplification.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplification radiante."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You have tech on your ship which can be scanned by your Weapons Amplifier.\n[Shock Enhancement: Causes the last projectile in the volley to break and stun all doors in the room.]\nIt will take a while to scan, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n[Amélioration par choc : fait en sorte que le dernier projectile de la salve brise et étourdisse toutes les portes de la pièce.]\nLe scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Proceed.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Continuer."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Your system scans the technology, adding the enhancement to the system's library.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Votre système scanne la technologie, ajoutant l'amélioration à la bibliothèque du système."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Nevermind": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Laissez tomber"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You have tech on your ship which can be scanned by your Weapons Amplifier.\n[Shatter Enhancement: Causes the last projectile in the volley to create an extremely weak lockdown, the next hit to this room while the lockdown is active will do 2x damage.]\nIt will take a while to scan, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n[Amélioration par éclatement : fait en sorte que le dernier projectile de la salve crée un verrouillage extrêmement faible, le prochain coup porté à cette pièce pendant que le verrouillage est actif infligera 2x plus de dégâts.]\nLe scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You have tech on your ship which can be scanned by your Weapons Amplifier.\n[Acidic Enhancement: Causes the last projectile in the volley to create acidic that erodes the system on hit.]\nIt will take a while to scan, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n[Amélioration acide : fait en sorte que le dernier projectile de la salve crée de l'acide qui érode le système à l'impact.]\nLe scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You have tech on your ship which can be scanned by your Weapons Amplifier.\n[Inculcation Enhancement: Causes the last projectile in the volley to create inculcation gas on hit.]\nIt will take a while to scan, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n[Amélioration d'inculcation : fait en sorte que le dernier projectile de la salve crée du gaz d'inculcation à l'impact.]\nLe scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You have tech on your ship which can be scanned by your Weapons Amplifier.\n[Marked Enhancement: Causes the last projectile in the volley to target all friendly drones on hit.]\nIt will take a while to scan, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n[Amélioration de marquage : fait en sorte que le dernier projectile de la salve cible tous les drones alliés à l'impact.]\nLe scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You have tech on your ship which can be scanned by your Weapons Amplifier.\n[Resurrection Enhancement: When a projectile kills a crewmember, temporarily resurrect that crewmember on your side.]\nIt will take a while to scan, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n[Amélioration de résurrection : lorsqu'un projectile tue un membre d'équipage, ressuscitez temporairement ce membre d'équipage de votre côté.]\nLe scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You have tech on your ship which can be scanned by your Weapons Amplifier.\n[Cascade Enhancement: When a projectile full breaks a system, deal system damage to an adjacent room.]\nIt will take a while to scan, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n[Amélioration en cascade : lorsqu'un projectile détruit complètement un système, infligez des dégâts système à une pièce adjacente.]\nLe scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You have tech on your ship which can be scanned by your Weapons Amplifier.\n[Chaos Enhancement: Causes the last projectile in the volley to trigger a random effect that you have available.]\nIt will take a while to scan, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n[Amélioration par le chaos : fait en sorte que le dernier projectile de la salve déclenche un effet aléatoire dont vous disposez.]\nLe scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You have tech on your ship which can be scanned by your Weapons Amplifier.\n[Soulplague Enhancement: Causes the last projectile in the volley to inflict the Plagueridden effect.]\nIt will take a while to scan, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n[Amélioration par la Peste d'Âme : fait en sorte que le dernier projectile de la salve inflige l'effet Plagueridden.]\nLe scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You have tech on your ship which can be scanned by your Weapons Amplifier.\n[Darkness Enhancement: Causes the last projectile in the volley to inflict a chaotic, and potentially dark effect.]\nIt will take a while to scan, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n[Amélioration par les ténèbres : fait en sorte que le dernier projectile de la salve inflige un effet chaotique et potentiellement sombre.]\nLe scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You have tech on your ship which can be scanned by your Weapons Amplifier.\n[Shadow-Frost Enhancement: Causes the last projectile in the volley to inflict a series of Shadow-Crystal lockdowns, and potentially spawn a Hungering Shadow.]\nIt will take a while to scan, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n[Amélioration par ombre-givre : fait en sorte que le dernier projectile de la salve inflige une série de verrouillages Cristal d'ombre, et potentiellement fait apparaître une Ombre affamée.]\nLe scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You have tech on your ship which can be scanned by your Weapons Amplifier.\n[Radiant Enhancement: Causes the last projectile in the volley to inflict the Radiant Desecration effect, and spawn a random Lightborne.]\nIt will take a while to scan, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous avez de la technologie sur votre vaisseau qui peut être scannée par votre Amplificateur d'armes.\n[Amélioration radiante : fait en sorte que le dernier projectile de la salve inflige l'effet Profanation radiante, et fait apparaître un Lightborne aléatoire.]\nLe scan prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Pre-Ignited Canisters upgrade.\n\t[Effects: System charges are refilled with each jump.]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous êtes sur le point d'installer l'amélioration des Cartouches pré-chargées.\n[Effets : les charges du système sont remplies à chaque saut.]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 60~]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Effectuer l'amélioration. [Coût : 60~]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Fluid Recycler upgrade.\n\t[Effects: Switching enhancements no longer resets system charges.]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous êtes sur le point d'installer l'amélioration du Recycleur de fluide.\n[Effets : le changement d'améliorations ne réinitialise plus les charges du système.]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 20~, 5{]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Effectuer l'amélioration. [Coût : 20~, 5{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Dual Stemmed. [ALREADY INSTALLED]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "À double tige. [DÉJÀ INSTALLÉ]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Dual Stemmed. [Cost: 65~, 3{]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "À double tige. [Coût : 65~, 3{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Bare-rooted. [ALREADY INSTALLED]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "À racines nues. [DÉJÀ INSTALLÉ]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Bare-rooted. [Cost: 50~, 2|]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "À racines nues. [Coût : 50~, 2|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Praetor Bud. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Bourgeon de Jardinier. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Praetor Bud.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Bourgeon de Jardinier."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Cultivator Bud. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Bourgeon de Cultivateur. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Cultivator Bud.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Bourgeon de Cultivateur."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Acidic Bud. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Bourgeon acide. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Acidic Bud.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Bourgeon acide."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Suffocating Bud. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Bourgeon asphyxiant. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Suffocating Bud. [Cost: 35~, 3{]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Bourgeon asphyxiant. [Coût : 35~, 3{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Entangling Bud. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Bourgeon enchevêtrant. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Entangling Bud. [Cost: 20~, 5{]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Bourgeon enchevêtrant. [Coût : 20~, 5{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Trapping Bud. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Bourgeon piège. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Trapping Bud. [8{]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Bourgeon piège. [8{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Electrified Bud. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Bourgeon électrifié. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Electrified Bud. [Cost: 15~, 3{, 5|]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Bourgeon électrifié. [Coût : 15~, 3{, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Soulplagued Bud. [ALREADY AVAILABLE]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Bourgeon de Peste d'Âme. [DÉJÀ DISPONIBLE]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Soulplagued Bud.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Bourgeon de Peste d'Âme."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Dual Stemmed upgrade.\n\t[Effects: An extra bud grows in each room, can have the same or a different effect.]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous êtes sur le point d'installer l'amélioration À double tige.\n[Effets : un bourgeon supplémentaire pousse dans chaque pièce, pouvant avoir le même effet ou un effet différent.]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 65~, 3{]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Effectuer l'amélioration. [Coût : 65~, 3{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "This upgrade is unavailable. You need Life Bloom level 3.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Cette amélioration n'est pas disponible. Vous avez besoin de la Floraison vitale niveau 3."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You are about to install the Bare-rooted upgrade.\n\t[Effects: The roots of the Bloom can be placed in a different room, causing the system to grow out from that point rather than the system room.]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous êtes sur le point d'installer l'amélioration À racines nues.\n[Effets : les racines de la Floraison peuvent être placées dans une pièce différente, faisant croître le système à partir de ce point plutôt que depuis la salle du système.]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Perform the upgrade. [Cost: 50~, 2|]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Effectuer l'amélioration. [Coût : 50~, 2|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You have something on your ship which can seed your Life Bloom System to create a new bud type.\n[Releases Acidic Gas into the current room, repairs breaches over 10 seconds.]\nIt will take a while to incorporate, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous avez quelque chose sur votre vaisseau qui peut ensemencer votre système de Floraison vitale pour créer un nouveau type de bourgeon.\n[Libère du gaz acide dans la pièce actuelle, répare les brèches en 10 secondes.]\nL'intégration prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Your Life Bloom System adds a new type of bud to it's growth.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Votre système de Floraison vitale ajoute un nouveau type de bourgeon à sa croissance."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You have something on your ship which can seed your Life Bloom System to create a new bud type.\n[Max rooms: 1, All allied crew in the same room gain doubled Max Health, repair speed, and power generation.]\nIt will take a while to incorporate, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous avez quelque chose sur votre vaisseau qui peut ensemencer votre système de Floraison vitale pour créer un nouveau type de bourgeon.\n[Nombre max de pièces : 1, tout l'équipage allié dans la même pièce gagne le double de Santé max, de vitesse de réparation et de génération d'énergie.]\nL'intégration prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You have something on your ship which can seed your Life Bloom System to create a new bud type.\n[Max rooms: 3, Nearby enemies take 60% increased damage from ANY source and are stunned 50% longer.]\nIt will take a while to incorporate, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous avez quelque chose sur votre vaisseau qui peut ensemencer votre système de Floraison vitale pour créer un nouveau type de bourgeon.\n[Nombre max de pièces : 3, les ennemis proches subissent 60 % de dégâts accrus de TOUTE source et sont étourdis 50 % plus longtemps.]\nL'intégration prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You can feed your Life Bloom System with scrap and fuel to encourage it to produce a new kind of bud.\n[Drains the room of oxygen, Enemy crew in the same room take 50% more suffocation damage.]\nIt will take a while to incorporate, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous pouvez nourrir votre système de Floraison vitale avec de la ferraille et du carburant pour l'encourager à produire un nouveau type de bourgeon.\n[Draine l'oxygène de la pièce, l'équipage ennemi dans la même pièce subit 50 % de dégâts de suffocation supplémentaires.]\nL'intégration prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Proceed. [Cost: 35~, 3{]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Continuer. [Coût : 35~, 3{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You can feed your Life Bloom System with scrap and fuel to encourage it to produce a new kind of bud.\n[Momentarily roots moving enemy crew in place for 1 second, dealing 15 damage, can retrigger after 0.5 seconds.]\nIt will take a while to incorporate, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous pouvez nourrir votre système de Floraison vitale avec de la ferraille et du carburant pour l'encourager à produire un nouveau type de bourgeon.\n[Enracine momentanément l'équipage ennemi en mouvement sur place pendant 1 seconde, infligeant 15 dégâts, peut se redéclencher après 0.5 secondes.]\nL'intégration prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Proceed. [Cost: 20~, 5{]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Continuer. [Coût : 20~, 5{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You can feed your Life Bloom System with scrap and fuel to encourage it to produce a new kind of bud.\n[While fully grown, will spend 50% of it's growth to lock down the room for 10 seconds while enemy crew are inside. This bud grows at 50% speed.]\nIt will take a while to incorporate, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous pouvez nourrir votre système de Floraison vitale avec de la ferraille et du carburant pour l'encourager à produire un nouveau type de bourgeon.\n[Une fois pleinement cultivé, dépensera 50 % de sa croissance pour verrouiller la pièce pendant 10 secondes tant que l'équipage ennemi est à l'intérieur. Ce bourgeon pousse à 50 % de sa vitesse.]\nL'intégration prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Proceed. [8{]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Continuer. [8{]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You can feed your Life Bloom System with scrap and fuel to encourage it to produce a new kind of bud.\n[Max room: 1, Provides 1 bonus power, destroys enemy hacking drones that attach to this room at the end of their effect.]\nIt will take a while to incorporate, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous pouvez nourrir votre système de Floraison vitale avec de la ferraille et du carburant pour l'encourager à produire un nouveau type de bourgeon.\n[Nombre max de pièces : 1, fournit 1 puissance bonus, détruit les drones de piratage ennemis qui s'attachent à cette pièce à la fin de leur effet.]\nL'intégration prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Proceed. [Cost: 15~, 3{, 5|]": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Continuer. [Coût : 15~, 3{, 5|]"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You have something on your ship which can seed your Life Bloom System to create a new bud type.\n[Inflicts the Soulplagued debuff upon enemy crew in the room, lasts 12 seconds but cannot be reapplied by the bud for 15 seconds.]\nIt will take a while to incorporate, giving the fleet time to catch up. Proceed?": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous avez quelque chose sur votre vaisseau qui peut ensemencer votre système de Floraison vitale pour créer un nouveau type de bourgeon.\n[Inflige le malus Peste d'Âme à l'équipage ennemi dans la pièce, dure 12 secondes mais ne peut pas être réappliqué par le bourgeon pendant 15 secondes.]\nL'intégration prendra un certain temps, laissant le temps à la flotte de vous rattraper. Continuer ?"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "TERTIARY SYSTEMS": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "SYSTÈMES TERTIAIRES"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "The Outer Cluster": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "L'amas extérieur"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Unique Crew (OE)": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Équipage unique (OE)"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Loot Transports (OE)": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Transports de butin (OE)"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Renegade Cruisers (OE)": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Croiseurs renégats (OE)"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Music (OE)": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Musique (OE)"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Corby's Grants (OE)": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Octrois de Corby (OE)"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Grant of Auxiliary Shields": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Octroi de Boucliers auxiliaires"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Receive the Grant of Auxiliary Shields from Corby.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Recevoir l'Octroi de Boucliers auxiliaires de Corby."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Show an upgraded Auxiliary Shields System to Corby. \n\t\t\t\tWhile in effect; Add 1 energy shield layer after jump.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Montrez un système de Boucliers auxiliaires amélioré à Corby.\nEn cours ; Ajoute 1 couche de bouclier énergétique après chaque saut."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Grant Received": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Octroi reçu"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Grant of Weapons Amplifier": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Octroi d'Amplificateur d'armes"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Receive the Grant of Weapons Amplifier from Corby.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Recevoir l'Octroi d'Amplificateur d'armes de Corby."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Show an upgraded Weapons Amplifier System to Corby. \n\t\t\t\tWhile in effect; Enables a random locked amplification.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Montrez un système d'Amplificateur d'armes amélioré à Corby.\nEn cours ; Active une amplification verrouillée aléatoire."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Grant of Life Bloom": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Octroi de Floraison vitale"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Receive the Grant of Life Bloom from Corby.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Recevoir l'Octroi de Floraison vitale de Corby."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Show an upgraded Life Bloom System to Corby. \n\t\t\t\tWhile in effect; All crew gain 10% health for each power in the Life Bloom system.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Montrez un système de Floraison vitale amélioré à Corby.\nEn cours ; Tout l'équipage gagne 10 % de santé pour chaque puissance dans le système de Floraison vitale."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Duration: %i / Speed: %gx": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Durée : %i / Vitesse : %gx"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Overclock the Auxiliary Shields system, temporarily boosting the speed. Afterwards system becomes locked for %d seconds.\\nHotkey: %s": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Overclockez le système de Boucliers auxiliaires, augmentant temporairement la vitesse. Ensuite, le système est verrouillé pour %d secondes.\nTouche : %s"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "%i charge": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "%i charge"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "%i charges": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "%i charges"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Enable consumption of Weapon Amplification charges for this weapon.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Activer la consommation des charges d'Amplification d'armes pour cette arme."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Disable consumption of Weapon Amplification charges for this weapon.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Désactiver la consommation des charges d'Amplification d'armes pour cette arme."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Current Enhancement: %s": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amélioration actuelle : %s"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Auxiliary Shields System installed": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Système de Boucliers auxiliaires installé"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Auxiliary Shields: Generates super shield layers over time, can be boosted for a much higher rate temporarily.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Boucliers auxiliaires : génère des couches de super bouclier au fil du temps, peut être accéléré pour un taux beaucoup plus élevé temporairement."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Auxiliary Shields: Generates super shield layers.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Boucliers auxiliaires : génère des couches de super bouclier."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Weapons Amplifier System installed": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Système d'Amplificateur d'armes installé"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Weapons Amplifier:  Enhances the weapons you fire, can be modified to provide different effects.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplificateur d'armes : améliore les armes que vous tirez, peut être modifié pour fournir différents effets."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Weapons Amplifier: Enhances the weapons the enemy fires, depending on the enemy the system will enhance their weapons in different ways.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Amplificateur d'armes : améliore les armes que l'ennemi tire, selon l'ennemi, le système améliorera leurs armes de différentes manières."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Causes the last projectile in the volley to start a fire on hit.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Fait en sorte que le dernier projectile de la salve provoque un incendie à l'impact."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Causes the last projectile in the volley to create a short lockdown on hit.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Fait en sorte que le dernier projectile de la salve crée un court verrouillage à l'impact."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Causes the last projectile in the volley to open a breach on hit.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Fait en sorte que le dernier projectile de la salve ouvre une brèche à l'impact."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Causes the last projectile in the volley to break and stun all doors in the room.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Fait en sorte que le dernier projectile de la salve brise et étourdisse toutes les portes de la pièce."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Causes the last projectile in the volley to create an extremely weak lockdown, the next hit to this room while the lockdown is active will do 2x damage.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Fait en sorte que le dernier projectile de la salve crée un verrouillage extrêmement faible, le prochain coup porté à cette pièce pendant que le verrouillage est actif infligera 2x plus de dégâts."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Causes the last projectile in the volley to create acidic that erodes the system on hit.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Fait en sorte que le dernier projectile de la salve crée de l'acide qui érode le système à l'impact."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Causes the last projectile in the volley to create inculcation gas on hit.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Fait en sorte que le dernier projectile de la salve crée du gaz d'inculcation à l'impact."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Causes the last projectile in the volley to target all friendly drones on hit.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Fait en sorte que le dernier projectile de la salve cible tous les drones alliés à l'impact."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "When a projectile kills a crewmember, temporarily resurrect that crewmember on your side.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Lorsqu'un projectile tue un membre d'équipage, ressuscitez temporairement ce membre d'équipage de votre côté."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "When a projectile full breaks a system, deal system damage to an adjacent room.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Lorsqu'un projectile détruit complètement un système, infligez des dégâts système à une pièce adjacente."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Causes the last projectile in the volley to inflict the Plagueridden effect.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Fait en sorte que le dernier projectile de la salve inflige l'effet Plagueridden."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Causes the last projectile in the volley to inflict a chaotic, and potentially dark effect.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Fait en sorte que le dernier projectile de la salve inflige un effet chaotique et potentiellement sombre."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Causes the last projectile in the volley to inflict a series of Shadow-Crystal lockdowns, and potentially spawn a Hungering Shadow.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Fait en sorte que le dernier projectile de la salve inflige une série de verrouillages Cristal d'ombre, et potentiellement fait apparaître une Ombre affamée."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Causes the last projectile in the volley to inflict the Radiant Desecration effect, and spawn a random Lightborne.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Fait en sorte que le dernier projectile de la salve inflige l'effet Profanation radiante, et fait apparaître un Lightborne aléatoire."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Causes the last projectile in the volley to trigger a random effect that you have available.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Fait en sorte que le dernier projectile de la salve déclenche un effet aléatoire dont vous disposez."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Speed: %g tiles/second": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vitesse : %g tuiles/seconde"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Manage Life Bloom System.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Gérer le système de Floraison vitale."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Life Bloom System cannot be changed while in danger.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Le système de Floraison vitale ne peut pas être modifié en cas de danger."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Life Bloom System installed": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Système de Floraison vitale installé"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Life Bloom: Grows across the ship, budding into rooms to provide oxygen and other effects.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Floraison vitale : croît à travers le vaisseau, bourgeonnant dans les pièces pour fournir de l'oxygène et d'autres effets."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Life Bloom: Grows across the enemy ship, budding into rooms to provide oxygen and sometimes other effects.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Floraison vitale : croît à travers le vaisseau ennemi, bourgeonnant dans les pièces pour fournir de l'oxygène et parfois d'autres effets."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Generates enough oxygen to sustain 3 rooms": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Génère assez d'oxygène pour soutenir 3 pièces"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Friendly crew in the same room gain 20% Max Health, repair speed, and healing speed": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "L'équipage allié dans la même pièce gagne 20 % de Santé max, de vitesse de réparation et de vitesse de soin"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Enemy crew in the same room lose 15% of their Max Health and move 25% slower": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "L'équipage ennemi dans la même pièce perd 15 % de sa Santé max et se déplace 25 % plus lentement"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Max rooms: 1\\nAll allied crew in the same room gain doubled Max Health, repair speed, and power generation.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Nombre max de pièces : 1\\nTout l'équipage allié dans la même pièce gagne le double de Santé max, de vitesse de réparation et de génération d'énergie."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Max rooms: 3\\nNearby enemies take 60% increased damage from ANY source and are stunned 50% longer.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Nombre max de pièces : 3\\nLes ennemis proches subissent 60 % de dégâts accrus de TOUTE source et sont étourdis 50 % plus longtemps."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Releases Acidic Gas into the current room, repairs breaches over 10 seconds.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Libère du gaz acide dans la pièce actuelle, répare les brèches en 10 secondes."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Drains the room of oxygen, Enemy crew in the same room take 50% more suffocation damage.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Draine l'oxygène de la pièce, l'équipage ennemi dans la même pièce subit 50 % de dégâts de suffocation supplémentaires."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Momentarily roots moving enemy crew in place for 1 second, dealing 15 damage, can retrigger after 0.5 seconds.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Enracine momentanément l'équipage ennemi en mouvement sur place pendant 1 seconde, infligeant 15 dégâts, peut se redéclencher après 0.5 secondes."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "While fully grown, will spend 50% of it's growth to lock down the room for 10 seconds while enemy crew are inside. This bud grows at 50% speed.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Une fois pleinement cultivé, dépensera 50 % de sa croissance pour verrouiller la pièce pendant 10 secondes tant que l'équipage ennemi est à l'intérieur. Ce bourgeon pousse à 50 % de sa vitesse."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Max room: 1\\nProvides 1 bonus power, destroys enemy hacking drones that attach to this room at the end of their effect.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Nombre max de pièces : 1\\nFournit 1 puissance bonus, détruit les drones de piratage ennemis qui s'attachent à cette pièce à la fin de leur effet."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Inflicts the soulplagued debuff upon enemy crew in the room, lasts 12 seconds but cannot be reapplied by the bud for 15 seconds.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Inflige le malus Peste d'Âme à l'équipage ennemi dans la pièce, dure 12 secondes mais ne peut pas être réappliqué par le bourgeon pendant 15 secondes."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Place the root of the system, the point in which the plant grows from.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Placez la racine du système, le point à partir duquel la plante pousse."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Outer Expansion: Systems": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Extension extérieure : Systèmes"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "PATCH_LAST\nAdds systems used in the Outer Expansion.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "PATCH_LAST\nAjoute les systèmes utilisés dans l'Extension extérieure."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    }
+  }
+}

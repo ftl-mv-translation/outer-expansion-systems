@@ -1,0 +1,76 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_multiverse.xml.append:11
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[1]/text"
+msgstr "Présentez votre système de Boucliers auxiliaires."
+
+#: src-en/data/events_special_multiverse.xml.append:13
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"\"Boucliers auxiliaires - ils assurent des p-p-p-procédures défensives ! "
+"Vous pilotez un : vaisseau bien protégé ! Vaisseau bien protégé ! Pour un "
+"vaisseau bien protégé : j'accorde l'Octroi de Boucliers au-au-auxiliaires ! "
+"Octroi de Boucliers auxiliaires ! Gardez-le - pour le futur !\""
+
+#: src-en/data/events_special_multiverse.xml.append:18
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:24
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[2]/text"
+msgstr "Présentez votre système d'Amplificateur d'armes."
+
+#: src-en/data/events_special_multiverse.xml.append:26
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"\"Amplificateur d'armes - vraiment un s-s-système -curieux- ! Apprendre, "
+"-s'adapter- et : surmonter ! Intelligent, car vous : f-f-frappez là où "
+"l'ennemi est le plus faible ! Le plus faible ! Pour le capitaine intelligent"
+" : j'accorde l'Octroi d'A-A-Amplificateur d'armes ! Octroi d'Amplificateur "
+"d'armes ! Gardez-le - pour le futur !\""
+
+#: src-en/data/events_special_multiverse.xml.append:31
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:37
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[3]/text"
+msgstr "Présentez votre système de Floraison vitale."
+
+#: src-en/data/events_special_multiverse.xml.append:39
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[3]/event/text"
+msgstr ""
+"\"Floraison vitale - une -merveille- de bio-ingénierie ! Je n'en sais p-p-"
+"pas beaucoup sur les -organiques-, mais vous devez prendre -soin- de ces "
+"fleurs ! Pensez-vous qu'elles peuvent vous comprendre ? Leur racontez-vous "
+"des h-h-histoires ? Même si v-v-vous ne le faites pas, je suis sûr qu'elles "
+"-apprécient- votre soin ! Pour le capitaine bienveillant : j'accorde "
+"l'Octroi de Floraison vitale ! Octroi de Floraison vitale ! Gardez-le - pour"
+" le futur !\""
+
+#: src-en/data/events_special_multiverse.xml.append:44
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice[3]/event/choice/text"
+msgstr ""
